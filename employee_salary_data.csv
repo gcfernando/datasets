@@ -1,1001 +1,1251 @@
-Experience,Designation,Salary,Location,Education Level,Industry
-7,Junior Developer,45938,Boston,PhD,Healthcare
-20,Manager,107668,Chicago,Master's,Retail
-29,CTO,247934,Seattle,Bachelor,Education
-15,Junior Developer,52697,Austin,Master's,Retail
-11,Senior Developer,75233,Austin,Bachelor,Manufacturing
-8,Lead Developer,94746,Chicago,Master's,Consulting
-29,Junior Developer,61229,Austin,PhD,Education
-21,Junior Developer,59351,New York,Bachelor,Education
-7,CIO,157052,New York,Master's,Consulting
-26,Developer,78016,Chicago,Master's,Retail
-19,CIO,198199,Seattle,Master's,Manufacturing
-23,VP,195157,San Francisco,Bachelor,Finance
-11,Developer,61576,Los Angeles,Bachelor,Consulting
-11,Director,113444,San Francisco,Bachelor,Healthcare
-24,Director,154554,Austin,PhD,Retail
-21,Senior Developer,87203,Los Angeles,PhD,Consulting
-4,Developer,51278,Denver,Bachelor,Consulting
-8,Junior Developer,48096,Chicago,Master's,Education
-24,Director,158598,Chicago,PhD,Healthcare
-3,Manager,79574,Seattle,Bachelor,Healthcare
-22,CTO,214261,Los Angeles,Master's,Healthcare
-21,Junior Developer,56912,New York,PhD,Consulting
-2,VP,136736,Los Angeles,Master's,Finance
-24,Manager,109637,Austin,Master's,Technology
-12,Manager,103652,New York,Master's,Retail
-30,Developer,72603,Boston,Master's,Technology
-6,Senior Developer,70316,Boston,PhD,Consulting
-2,VP,129828,Denver,PhD,Technology
-28,Director,142432,Boston,PhD,Consulting
-21,Developer,63511,Chicago,Bachelor,Technology
-1,Director,106995,Los Angeles,PhD,Healthcare
-12,Developer,56068,Boston,Master's,Manufacturing
-26,Developer,64741,San Francisco,PhD,Healthcare
-22,Developer,64168,Seattle,Master's,Healthcare
-29,Senior Developer,103438,San Francisco,Bachelor,Education
-12,Developer,54802,Boston,Master's,Education
-25,Lead Developer,122693,Denver,Master's,Technology
-17,CTO,198356,Seattle,Master's,Consulting
-27,Director,168424,Austin,Bachelor,Healthcare
-27,Junior Developer,52395,San Francisco,PhD,Technology
-10,CIO,158187,Denver,PhD,Education
-28,VP,186907,Los Angeles,Bachelor,Manufacturing
-28,Senior Developer,89930,Los Angeles,Master's,Retail
-16,Junior Developer,50441,San Francisco,PhD,Technology
-15,Manager,98106,Boston,Bachelor,Manufacturing
-30,Lead Developer,108060,Denver,PhD,Retail
-30,CIO,224489,Los Angeles,Bachelor,Finance
-15,Junior Developer,48927,Austin,Master's,Technology
-30,Junior Developer,60296,New York,PhD,Technology
-19,Lead Developer,106772,Boston,Bachelor,Finance
-12,CIO,162791,Denver,PhD,Finance
-23,Manager,118627,Austin,PhD,Technology
-20,Developer,69762,Denver,PhD,Finance
-25,Director,164293,Seattle,PhD,Healthcare
-3,Manager,82621,Austin,Bachelor,Retail
-5,Developer,49950,Boston,Master's,Retail
-19,Senior Developer,92521,Seattle,Bachelor,Retail
-7,CTO,175238,Boston,Bachelor,Healthcare
-21,VP,169487,Los Angeles,Bachelor,Consulting
-9,VP,153008,New York,Master's,Finance
-7,Director,109572,Boston,PhD,Manufacturing
-18,CIO,172936,Boston,PhD,Finance
-4,Lead Developer,73929,Los Angeles,PhD,Technology
-25,CIO,206478,Chicago,Master's,Education
-28,Lead Developer,105961,Los Angeles,PhD,Retail
-14,CIO,199640,Seattle,Master's,Finance
-18,CTO,216253,Los Angeles,PhD,Manufacturing
-26,Senior Developer,85286,Los Angeles,PhD,Technology
-9,Senior Developer,75504,New York,Bachelor,Healthcare
-26,Developer,70719,Los Angeles,Master's,Consulting
-21,Senior Developer,95522,Denver,Bachelor,Healthcare
-2,Senior Developer,63368,Boston,Bachelor,Manufacturing
-20,Manager,121157,Denver,Bachelor,Technology
-28,Manager,127596,New York,Master's,Retail
-15,Developer,67752,San Francisco,Master's,Finance
-28,Director,142100,Chicago,PhD,Technology
-7,Manager,85200,Denver,Bachelor,Consulting
-12,Director,134799,New York,PhD,Healthcare
-29,Junior Developer,65221,Seattle,Bachelor,Consulting
-8,Manager,102031,San Francisco,Master's,Consulting
-15,CTO,185520,New York,Master's,Manufacturing
-3,Developer,50937,New York,Master's,Manufacturing
-14,Junior Developer,44996,Chicago,Bachelor,Finance
-17,CTO,206929,Boston,Master's,Manufacturing
-4,CTO,172060,Denver,Bachelor,Manufacturing
-18,CTO,230605,Seattle,PhD,Technology
-8,Director,119355,Austin,Bachelor,Retail
-4,CIO,154681,Denver,PhD,Finance
-2,Junior Developer,41957,Austin,Bachelor,Technology
-30,Lead Developer,121045,New York,PhD,Retail
-6,Junior Developer,43984,Los Angeles,Master's,Consulting
-22,CIO,185933,Seattle,PhD,Technology
-10,Junior Developer,49081,San Francisco,Master's,Education
-4,Senior Developer,67490,Los Angeles,Master's,Technology
-22,Lead Developer,118313,Los Angeles,PhD,Manufacturing
-29,CIO,230341,Denver,Bachelor,Retail
-18,Director,136718,Seattle,Bachelor,Finance
-26,VP,195090,Boston,Bachelor,Finance
-12,CIO,189545,New York,Bachelor,Retail
-2,Developer,56428,New York,Bachelor,Manufacturing
-10,CIO,182829,New York,Master's,Healthcare
-30,Senior Developer,92294,New York,Bachelor,Technology
-4,VP,121230,Denver,Master's,Manufacturing
-14,Senior Developer,85893,Austin,Master's,Education
-16,VP,178270,New York,Master's,Consulting
-15,Developer,56396,Austin,PhD,Retail
-8,Director,118853,Austin,PhD,Technology
-14,Senior Developer,82974,Boston,Master's,Finance
-23,Senior Developer,85053,New York,PhD,Consulting
-28,CTO,256275,Chicago,Bachelor,Healthcare
-25,VP,176328,San Francisco,Bachelor,Education
-30,Manager,132534,Los Angeles,Master's,Finance
-8,VP,146944,Austin,Bachelor,Retail
-21,CTO,217389,Seattle,Master's,Technology
-16,Junior Developer,49152,Seattle,Master's,Retail
-13,VP,155602,San Francisco,Bachelor,Consulting
-18,Director,124642,Seattle,PhD,Technology
-15,CTO,194665,Chicago,Bachelor,Manufacturing
-21,Junior Developer,54918,Seattle,Bachelor,Healthcare
-24,Lead Developer,104997,Los Angeles,Master's,Manufacturing
-26,CTO,221640,Los Angeles,Master's,Manufacturing
-25,Lead Developer,103198,Austin,Master's,Retail
-28,Senior Developer,93218,New York,Master's,Consulting
-28,CTO,256004,Boston,PhD,Healthcare
-28,Developer,72901,Chicago,PhD,Technology
-13,Lead Developer,86970,Austin,PhD,Technology
-9,Director,117369,Chicago,Master's,Education
-29,Developer,70938,New York,Master's,Finance
-15,CIO,178707,Denver,Master's,Education
-13,CIO,162538,Seattle,PhD,Education
-1,Junior Developer,36804,Seattle,Master's,Technology
-25,Senior Developer,94799,Boston,Bachelor,Retail
-7,CTO,161552,New York,Bachelor,Manufacturing
-9,Manager,90427,Austin,Master's,Consulting
-24,Director,161164,Boston,Bachelor,Manufacturing
-1,Lead Developer,80014,New York,Bachelor,Manufacturing
-12,Developer,58390,San Francisco,PhD,Healthcare
-8,CIO,170871,Los Angeles,Master's,Technology
-24,Director,154535,Boston,Master's,Consulting
-11,Manager,104141,Boston,PhD,Retail
-19,CTO,198160,Austin,Bachelor,Healthcare
-17,Junior Developer,51588,Chicago,Bachelor,Finance
-8,Manager,99810,San Francisco,Master's,Retail
-3,Director,100526,Austin,Bachelor,Education
-3,Manager,77316,New York,PhD,Retail
-1,Director,105214,New York,PhD,Retail
-27,Director,163996,New York,Master's,Manufacturing
-5,VP,120192,Denver,PhD,Retail
-10,Lead Developer,84645,New York,PhD,Education
-7,CIO,162516,Chicago,Master's,Education
-26,VP,202530,San Francisco,PhD,Technology
-9,CTO,192698,Seattle,PhD,Retail
-28,VP,185855,Los Angeles,PhD,Manufacturing
-7,Senior Developer,76091,Chicago,Bachelor,Retail
-9,Senior Developer,74159,Chicago,Master's,Finance
-8,CIO,185072,Denver,Master's,Finance
-12,Manager,99813,Seattle,Master's,Manufacturing
-2,Lead Developer,84871,Seattle,Bachelor,Technology
-1,CIO,164148,Los Angeles,Bachelor,Technology
-16,Director,129538,Los Angeles,Master's,Education
-23,Developer,71829,Seattle,Bachelor,Education
-23,Lead Developer,109736,New York,Master's,Healthcare
-30,Lead Developer,114773,Chicago,Bachelor,Manufacturing
-24,Director,137016,Austin,PhD,Retail
-5,Director,99717,Los Angeles,PhD,Consulting
-3,Junior Developer,42234,Denver,Master's,Manufacturing
-12,CIO,189300,Denver,Bachelor,Healthcare
-8,Director,109394,Los Angeles,Bachelor,Education
-22,Senior Developer,84634,Seattle,PhD,Manufacturing
-27,CTO,219764,San Francisco,PhD,Manufacturing
-3,Developer,51887,Austin,Bachelor,Education
-1,CIO,139204,Austin,Bachelor,Healthcare
-3,Senior Developer,67047,Los Angeles,Bachelor,Education
-5,Manager,90174,New York,Bachelor,Technology
-15,Director,141959,San Francisco,Bachelor,Retail
-14,Director,134191,Austin,Bachelor,Education
-3,Lead Developer,79935,Los Angeles,Master's,Healthcare
-1,Senior Developer,67199,Denver,Bachelor,Finance
-5,Lead Developer,77969,Austin,PhD,Technology
-26,Junior Developer,54181,Boston,Master's,Finance
-23,Lead Developer,117499,San Francisco,Bachelor,Consulting
-14,Junior Developer,47163,San Francisco,PhD,Education
-7,Junior Developer,46528,Boston,Master's,Technology
-27,Director,144591,Chicago,PhD,Retail
-9,Manager,96031,Denver,Bachelor,Education
-15,Lead Developer,98814,Boston,Bachelor,Retail
-15,Senior Developer,83312,Seattle,Bachelor,Manufacturing
-26,Junior Developer,56380,Seattle,Bachelor,Finance
-10,Director,112177,Los Angeles,Master's,Technology
-28,Developer,72476,San Francisco,Master's,Retail
-13,CIO,186865,Chicago,PhD,Healthcare
-19,Manager,102882,Chicago,Bachelor,Retail
-7,VP,141715,Austin,PhD,Healthcare
-17,Developer,63829,Austin,Master's,Education
-20,CIO,210402,Boston,Bachelor,Technology
-29,Developer,76711,Chicago,Bachelor,Retail
-4,Lead Developer,84896,Boston,Master's,Consulting
-30,Junior Developer,64562,Denver,Master's,Retail
-5,Manager,93662,Boston,Master's,Consulting
-23,CTO,212397,Austin,Master's,Technology
-7,Junior Developer,46151,San Francisco,Master's,Retail
-13,CTO,188394,Boston,Bachelor,Healthcare
-15,CIO,193697,New York,Master's,Retail
-11,Director,131810,San Francisco,Bachelor,Finance
-29,VP,201723,Chicago,Bachelor,Education
-4,Senior Developer,64803,Chicago,Master's,Manufacturing
-13,Junior Developer,46690,Boston,Master's,Healthcare
-7,Manager,93358,San Francisco,Bachelor,Finance
-27,Developer,71489,Austin,Master's,Consulting
-19,Manager,108526,Austin,Master's,Education
-22,CIO,184506,Seattle,Master's,Technology
-28,CTO,252665,Chicago,PhD,Healthcare
-2,Developer,55777,Los Angeles,Bachelor,Manufacturing
-10,Senior Developer,75471,Seattle,PhD,Education
-13,Senior Developer,84496,Austin,Master's,Consulting
-30,Junior Developer,54670,San Francisco,PhD,Manufacturing
-25,CIO,211175,Denver,Master's,Technology
-21,Director,145689,Austin,PhD,Technology
-6,CIO,160606,San Francisco,Master's,Consulting
-28,CTO,267536,Seattle,PhD,Healthcare
-28,Manager,135639,Chicago,PhD,Consulting
-12,Senior Developer,68649,Austin,PhD,Retail
-12,Manager,91892,Boston,Bachelor,Technology
-20,Manager,105439,San Francisco,PhD,Education
-30,Manager,119854,Chicago,Bachelor,Retail
-30,Senior Developer,101577,Denver,Master's,Finance
-11,Lead Developer,94113,Denver,PhD,Manufacturing
-26,CTO,233176,Los Angeles,Master's,Retail
-23,CTO,248386,San Francisco,Master's,Manufacturing
-28,Developer,71330,Seattle,PhD,Consulting
-25,CIO,211755,Los Angeles,Bachelor,Retail
-7,CIO,169696,Los Angeles,PhD,Consulting
-30,VP,215386,New York,Master's,Finance
-1,CIO,158162,Austin,Master's,Technology
-1,Senior Developer,58363,San Francisco,PhD,Finance
-25,Director,160864,Los Angeles,Bachelor,Technology
-27,Junior Developer,55142,New York,Bachelor,Consulting
-30,VP,214693,Seattle,Master's,Technology
-25,Junior Developer,53972,Chicago,Master's,Manufacturing
-20,CTO,206705,Boston,Bachelor,Education
-13,Junior Developer,44790,Boston,PhD,Finance
-9,Junior Developer,43212,San Francisco,Master's,Retail
-3,VP,131135,Los Angeles,Bachelor,Finance
-7,Developer,59245,Boston,Master's,Manufacturing
-6,Manager,81489,Austin,PhD,Technology
-8,CIO,174060,Boston,Bachelor,Manufacturing
-27,CIO,217769,Boston,Master's,Healthcare
-9,Senior Developer,68445,Boston,PhD,Healthcare
-30,VP,199275,Denver,Master's,Retail
-5,Senior Developer,69897,New York,PhD,Manufacturing
-1,Director,95316,Los Angeles,PhD,Consulting
-19,Director,143924,Austin,Bachelor,Retail
-10,Senior Developer,72410,Los Angeles,PhD,Consulting
-12,VP,136853,Denver,Master's,Retail
-24,Senior Developer,99799,San Francisco,PhD,Healthcare
-15,CIO,200222,San Francisco,PhD,Retail
-27,Lead Developer,114575,San Francisco,Bachelor,Healthcare
-22,Junior Developer,50829,Seattle,PhD,Technology
-24,Lead Developer,110873,Boston,PhD,Consulting
-9,VP,136459,Seattle,Master's,Manufacturing
-20,Lead Developer,103341,New York,Bachelor,Retail
-17,Director,131139,San Francisco,Bachelor,Healthcare
-30,CTO,270450,Denver,Bachelor,Finance
-17,Junior Developer,49478,Austin,PhD,Consulting
-26,Manager,132839,Los Angeles,Bachelor,Retail
-20,VP,183216,Boston,PhD,Education
-12,Junior Developer,47001,Chicago,PhD,Technology
-30,Lead Developer,126945,Austin,Master's,Technology
-7,Director,109139,Boston,Master's,Finance
-2,Developer,46870,Seattle,Master's,Healthcare
-3,Manager,77357,Seattle,Master's,Retail
-17,Junior Developer,51086,Austin,Master's,Consulting
-5,Director,111945,Seattle,PhD,Healthcare
-17,Director,128085,San Francisco,PhD,Technology
-24,Lead Developer,113580,New York,Bachelor,Healthcare
-17,CIO,187467,Los Angeles,PhD,Technology
-27,Lead Developer,118347,New York,PhD,Healthcare
-17,CIO,199153,Boston,Master's,Finance
-2,CIO,149944,Los Angeles,PhD,Manufacturing
-2,Manager,79334,Denver,Master's,Finance
-28,Lead Developer,125974,Los Angeles,Bachelor,Finance
-22,Developer,64225,New York,Bachelor,Manufacturing
-23,Senior Developer,93826,Austin,PhD,Manufacturing
-5,Senior Developer,71485,Los Angeles,Bachelor,Retail
-1,Lead Developer,75054,Denver,PhD,Consulting
-1,Lead Developer,82290,Denver,Bachelor,Consulting
-19,Manager,115520,Denver,Master's,Retail
-30,Lead Developer,130495,New York,Master's,Finance
-2,CIO,143451,Los Angeles,Master's,Finance
-21,Director,139980,Chicago,Master's,Technology
-12,Director,127740,Austin,PhD,Technology
-26,CIO,190522,San Francisco,Bachelor,Consulting
-6,VP,141699,Los Angeles,PhD,Retail
-23,CIO,210826,Denver,Master's,Education
-4,Developer,55957,Chicago,PhD,Education
-23,CTO,237998,San Francisco,Bachelor,Retail
-11,Junior Developer,50247,San Francisco,PhD,Technology
-24,CIO,195406,Boston,Bachelor,Consulting
-27,Lead Developer,108883,Los Angeles,PhD,Consulting
-17,Lead Developer,104745,New York,Bachelor,Technology
-6,Manager,97377,Los Angeles,Bachelor,Education
-24,CIO,205724,Chicago,Master's,Healthcare
-5,Manager,79703,San Francisco,Bachelor,Healthcare
-20,CIO,193544,Los Angeles,Master's,Technology
-2,Junior Developer,40948,New York,Master's,Healthcare
-6,CTO,154093,Boston,Master's,Manufacturing
-22,Director,144828,Los Angeles,PhD,Retail
-11,Senior Developer,71700,Austin,PhD,Retail
-16,CIO,193783,Boston,PhD,Technology
-16,CTO,199034,New York,PhD,Finance
-1,Director,97510,Chicago,Bachelor,Education
-9,VP,139332,San Francisco,Bachelor,Technology
-28,Junior Developer,55675,Los Angeles,PhD,Healthcare
-27,Manager,115691,New York,Bachelor,Education
-6,Manager,81689,Boston,Bachelor,Finance
-16,Lead Developer,91203,Austin,Master's,Healthcare
-29,Director,142565,New York,Master's,Consulting
-3,VP,129210,Seattle,Master's,Manufacturing
-20,CTO,211103,Denver,Master's,Healthcare
-28,Junior Developer,60892,Austin,Bachelor,Manufacturing
-27,Director,151342,Boston,PhD,Education
-4,VP,129991,Chicago,Bachelor,Manufacturing
-19,Senior Developer,80972,San Francisco,Bachelor,Education
-26,CIO,218501,Boston,Bachelor,Education
-3,Manager,92123,Denver,Master's,Education
-19,CTO,194378,Chicago,Master's,Education
-20,Manager,119589,Los Angeles,Master's,Education
-7,CTO,177372,New York,PhD,Healthcare
-20,Lead Developer,106531,Seattle,Bachelor,Education
-9,CTO,197503,Austin,PhD,Healthcare
-1,Manager,87862,Austin,Master's,Education
-8,CTO,186923,New York,PhD,Manufacturing
-7,Senior Developer,72267,Seattle,Bachelor,Consulting
-18,Lead Developer,100290,New York,Bachelor,Education
-8,CTO,192724,Los Angeles,Master's,Finance
-1,Director,101106,Denver,Master's,Education
-11,Developer,59873,Chicago,PhD,Education
-28,VP,190108,Boston,Master's,Manufacturing
-25,Developer,74447,Austin,Master's,Retail
-25,Developer,65224,Los Angeles,Bachelor,Manufacturing
-18,Junior Developer,51260,Chicago,Master's,Finance
-23,Senior Developer,95586,Los Angeles,Master's,Retail
-30,Director,156638,Seattle,Bachelor,Technology
-10,CIO,184302,Austin,Bachelor,Technology
-3,CTO,172047,Boston,PhD,Finance
-7,VP,147580,New York,Master's,Manufacturing
-28,Lead Developer,124512,New York,Bachelor,Healthcare
-16,Director,121650,Chicago,PhD,Finance
-26,Manager,124299,Boston,PhD,Consulting
-16,CIO,179298,Denver,Master's,Retail
-25,Junior Developer,53964,San Francisco,Master's,Retail
-20,Junior Developer,52594,Seattle,PhD,Education
-28,Director,165925,Chicago,Bachelor,Technology
-17,Developer,70545,San Francisco,PhD,Retail
-2,Manager,81644,Los Angeles,Master's,Finance
-1,Junior Developer,39450,Seattle,Bachelor,Retail
-16,VP,161333,Los Angeles,Bachelor,Finance
-30,Junior Developer,54165,Denver,PhD,Healthcare
-12,Lead Developer,94401,Boston,Master's,Education
-5,CTO,167375,Austin,PhD,Technology
-5,Junior Developer,45047,Seattle,PhD,Retail
-27,Lead Developer,107789,San Francisco,PhD,Finance
-23,Director,149042,Denver,Bachelor,Manufacturing
-9,Director,117818,Austin,Bachelor,Technology
-9,CIO,175088,New York,Master's,Healthcare
-3,Junior Developer,37867,San Francisco,Master's,Finance
-19,VP,163388,Chicago,PhD,Consulting
-16,Junior Developer,51260,New York,PhD,Consulting
-16,VP,150878,Denver,PhD,Education
-3,Senior Developer,65810,New York,Master's,Education
-20,CIO,187922,Chicago,Bachelor,Healthcare
-24,Senior Developer,86321,Seattle,Bachelor,Healthcare
-22,Junior Developer,49772,New York,PhD,Education
-24,CIO,225250,Boston,PhD,Retail
-1,Senior Developer,63032,San Francisco,PhD,Retail
-24,Developer,68395,Austin,PhD,Finance
-20,Junior Developer,50258,New York,Master's,Manufacturing
-11,Senior Developer,78294,San Francisco,Bachelor,Finance
-17,Developer,63789,Los Angeles,PhD,Manufacturing
-8,Developer,51650,San Francisco,Master's,Healthcare
-4,Director,102941,Austin,PhD,Technology
-6,Junior Developer,46438,San Francisco,PhD,Finance
-8,Developer,53587,Chicago,Bachelor,Finance
-20,Director,150260,Denver,PhD,Manufacturing
-30,Senior Developer,93262,Austin,Bachelor,Healthcare
-3,Lead Developer,72888,Denver,Bachelor,Healthcare
-16,Junior Developer,50596,Seattle,Bachelor,Consulting
-30,CIO,220164,Denver,Master's,Manufacturing
-25,VP,203595,Los Angeles,Master's,Healthcare
-3,VP,129411,Chicago,Bachelor,Education
-25,Senior Developer,89232,Seattle,PhD,Retail
-29,Senior Developer,91017,San Francisco,Bachelor,Consulting
-18,Developer,62039,Austin,PhD,Education
-14,Junior Developer,52245,Los Angeles,Bachelor,Technology
-18,VP,165432,Chicago,PhD,Finance
-2,VP,126826,Seattle,Master's,Consulting
-22,Developer,65883,Seattle,PhD,Technology
-3,VP,134545,Los Angeles,Bachelor,Finance
-16,CIO,188210,Boston,Master's,Retail
-29,Junior Developer,60237,San Francisco,PhD,Healthcare
-9,CTO,169031,Los Angeles,PhD,Education
-4,VP,132406,Seattle,PhD,Manufacturing
-1,Senior Developer,64490,New York,PhD,Education
-4,CIO,170300,Chicago,PhD,Retail
-1,VP,114116,Los Angeles,Master's,Technology
-14,CIO,200582,Boston,Master's,Manufacturing
-21,Director,145632,Seattle,Master's,Healthcare
-16,CTO,183570,San Francisco,Master's,Retail
-20,Manager,121288,Denver,Bachelor,Manufacturing
-24,Senior Developer,96088,Seattle,Master's,Retail
-8,Senior Developer,77093,San Francisco,PhD,Retail
-7,Junior Developer,42705,Los Angeles,PhD,Healthcare
-3,CIO,142217,San Francisco,Master's,Consulting
-17,Developer,67816,Austin,PhD,Finance
-1,Senior Developer,62182,Austin,Master's,Manufacturing
-16,CIO,186662,Austin,PhD,Healthcare
-12,CIO,177199,Boston,Bachelor,Retail
-27,Lead Developer,113891,Boston,Bachelor,Healthcare
-19,Lead Developer,105530,New York,Master's,Consulting
-22,Manager,126133,Boston,Master's,Finance
-23,Director,151289,Denver,Master's,Education
-22,Manager,116667,Los Angeles,PhD,Manufacturing
-14,VP,146129,Seattle,Master's,Finance
-30,Developer,68635,Seattle,Bachelor,Technology
-6,VP,134592,New York,PhD,Manufacturing
-6,VP,130966,Boston,Master's,Finance
-13,Junior Developer,51026,Denver,PhD,Retail
-19,VP,174859,San Francisco,PhD,Manufacturing
-22,Manager,106319,New York,Master's,Manufacturing
-8,Senior Developer,64741,Denver,PhD,Healthcare
-27,Senior Developer,91027,San Francisco,Bachelor,Retail
-27,Lead Developer,118451,Denver,Bachelor,Technology
-2,Developer,49190,San Francisco,PhD,Education
-21,Developer,68073,Chicago,Master's,Consulting
-30,Junior Developer,57255,Denver,PhD,Finance
-1,Manager,81781,Seattle,Bachelor,Healthcare
-28,Lead Developer,110513,Austin,PhD,Finance
-15,Developer,60358,Boston,PhD,Technology
-1,Senior Developer,58220,San Francisco,Bachelor,Technology
-5,VP,138241,Chicago,PhD,Manufacturing
-28,VP,200580,Denver,PhD,Consulting
-29,Lead Developer,125823,Seattle,Master's,Technology
-16,Manager,116259,Austin,Master's,Finance
-19,Manager,110302,San Francisco,Bachelor,Retail
-4,Director,117466,Denver,Bachelor,Retail
-3,CTO,155413,Denver,Bachelor,Manufacturing
-17,Developer,64925,San Francisco,Master's,Education
-17,Manager,110083,New York,Bachelor,Finance
-12,Senior Developer,75529,New York,Bachelor,Finance
-28,Lead Developer,110321,Seattle,Bachelor,Technology
-30,Director,165119,Austin,Master's,Consulting
-29,CIO,225199,San Francisco,PhD,Finance
-14,Junior Developer,50982,Seattle,Bachelor,Healthcare
-21,CIO,204617,Seattle,PhD,Education
-6,VP,135517,Los Angeles,Bachelor,Technology
-3,Junior Developer,43666,Denver,PhD,Healthcare
-28,Developer,68566,Boston,Master's,Manufacturing
-9,Senior Developer,65775,Denver,Master's,Retail
-5,Junior Developer,46212,New York,Bachelor,Manufacturing
-24,CTO,232530,Austin,PhD,Retail
-29,CIO,197162,Denver,Master's,Manufacturing
-17,Developer,62797,San Francisco,Bachelor,Finance
-14,CTO,199615,Seattle,Bachelor,Healthcare
-21,VP,161727,San Francisco,Master's,Retail
-3,CTO,166014,Los Angeles,Master's,Technology
-28,Director,170168,Austin,Bachelor,Healthcare
-1,Director,110443,Seattle,PhD,Technology
-20,Lead Developer,104520,San Francisco,PhD,Healthcare
-29,Developer,68007,New York,PhD,Healthcare
-21,VP,175248,Boston,Bachelor,Manufacturing
-23,Manager,120562,Los Angeles,Master's,Retail
-1,Director,111478,Austin,Bachelor,Retail
-3,Developer,54024,Los Angeles,Master's,Consulting
-18,Manager,114160,New York,PhD,Healthcare
-25,Lead Developer,102480,Austin,PhD,Finance
-10,CTO,192230,Los Angeles,Master's,Finance
-22,Director,138676,Chicago,Master's,Technology
-26,Developer,68305,New York,Bachelor,Technology
-3,Junior Developer,44219,New York,PhD,Manufacturing
-8,Manager,98715,New York,Bachelor,Healthcare
-14,CTO,182750,Chicago,Bachelor,Technology
-24,Director,148827,Chicago,Bachelor,Technology
-18,VP,164432,San Francisco,PhD,Education
-15,Manager,114740,Seattle,Bachelor,Healthcare
-22,Director,132735,Boston,Bachelor,Manufacturing
-23,Manager,113453,Los Angeles,Bachelor,Technology
-2,CTO,166500,San Francisco,Bachelor,Manufacturing
-27,Director,161018,Los Angeles,Bachelor,Retail
-10,CIO,190314,Boston,Bachelor,Manufacturing
-2,Developer,52565,Seattle,PhD,Finance
-26,CTO,230478,Chicago,Bachelor,Finance
-17,Manager,99911,Seattle,Master's,Manufacturing
-8,VP,146201,Chicago,Bachelor,Finance
-1,Junior Developer,42521,Boston,Bachelor,Retail
-9,Manager,89645,Seattle,PhD,Healthcare
-11,Developer,56025,San Francisco,PhD,Finance
-22,Director,142793,Austin,Master's,Finance
-16,Junior Developer,52228,San Francisco,Master's,Manufacturing
-7,Senior Developer,65555,Los Angeles,PhD,Retail
-29,Manager,119470,San Francisco,PhD,Consulting
-10,Lead Developer,95119,Boston,Bachelor,Consulting
-23,Senior Developer,85931,New York,PhD,Consulting
-26,Manager,121295,Los Angeles,Master's,Consulting
-3,CIO,143242,Seattle,Bachelor,Healthcare
-18,Lead Developer,108375,Los Angeles,Master's,Manufacturing
-25,Junior Developer,60095,Austin,Bachelor,Manufacturing
-24,VP,199229,Chicago,PhD,Education
-13,CIO,179333,Seattle,Master's,Retail
-28,Senior Developer,91734,Denver,Bachelor,Consulting
-26,Director,148603,Los Angeles,Bachelor,Healthcare
-7,Developer,57837,Seattle,PhD,Retail
-25,VP,185420,Seattle,PhD,Consulting
-4,CIO,159751,Seattle,PhD,Healthcare
-13,Director,117531,Chicago,Master's,Retail
-20,Director,144532,Denver,Bachelor,Manufacturing
-1,Manager,85557,Boston,PhD,Manufacturing
-8,CIO,163149,San Francisco,Master's,Technology
-14,Junior Developer,49857,Seattle,Master's,Finance
-16,Lead Developer,95179,New York,Master's,Consulting
-14,Lead Developer,98853,Boston,PhD,Education
-12,Senior Developer,70830,Austin,PhD,Retail
-19,Senior Developer,88958,Chicago,Bachelor,Education
-23,Lead Developer,114285,Los Angeles,Bachelor,Technology
-15,Junior Developer,52542,Chicago,PhD,Finance
-28,Developer,78298,Los Angeles,Master's,Retail
-2,CTO,143011,Chicago,Master's,Healthcare
-2,Developer,49873,Los Angeles,Master's,Consulting
-23,Manager,116835,Seattle,Bachelor,Finance
-22,CTO,224741,San Francisco,Master's,Manufacturing
-19,CTO,202692,Los Angeles,Bachelor,Technology
-25,CIO,221557,Denver,Bachelor,Finance
-26,Junior Developer,53047,Los Angeles,Master's,Consulting
-30,Junior Developer,57199,New York,Master's,Finance
-29,CTO,244765,Los Angeles,PhD,Consulting
-22,CIO,205106,New York,PhD,Manufacturing
-26,CTO,232567,Austin,Master's,Retail
-26,VP,184539,Seattle,Bachelor,Healthcare
-22,Senior Developer,94157,New York,Bachelor,Manufacturing
-17,Senior Developer,79862,San Francisco,Bachelor,Healthcare
-20,Developer,63215,Boston,Bachelor,Retail
-10,Manager,106166,Seattle,Bachelor,Finance
-6,Senior Developer,70382,New York,PhD,Healthcare
-15,Director,124657,Seattle,Master's,Technology
-22,Developer,66420,Denver,PhD,Technology
-11,Senior Developer,80950,Seattle,Bachelor,Consulting
-28,Manager,124345,Seattle,Bachelor,Manufacturing
-5,Junior Developer,45324,Austin,Bachelor,Retail
-1,Junior Developer,42927,San Francisco,Bachelor,Consulting
-8,CTO,186413,Chicago,Master's,Manufacturing
-21,VP,163608,Chicago,Bachelor,Manufacturing
-28,Junior Developer,53487,New York,Master's,Consulting
-12,CIO,188218,Seattle,Bachelor,Education
-12,Senior Developer,73467,New York,Master's,Manufacturing
-5,CIO,158723,Austin,PhD,Education
-7,Manager,90580,Austin,Bachelor,Technology
-4,Junior Developer,43918,Los Angeles,Master's,Technology
-6,VP,140937,Denver,PhD,Manufacturing
-13,Manager,100986,Austin,Bachelor,Technology
-20,Director,132094,Los Angeles,Bachelor,Retail
-30,Director,167358,San Francisco,Bachelor,Education
-15,CIO,187658,New York,Master's,Education
-3,CTO,151692,Boston,Master's,Manufacturing
-23,Developer,73338,San Francisco,PhD,Technology
-8,CTO,194208,Austin,Master's,Healthcare
-20,CTO,215519,San Francisco,Master's,Consulting
-16,VP,177779,San Francisco,Bachelor,Consulting
-13,Junior Developer,50924,Denver,Bachelor,Education
-18,VP,165231,Denver,Bachelor,Manufacturing
-28,Manager,128536,Denver,Bachelor,Manufacturing
-10,Director,108446,San Francisco,Bachelor,Retail
-30,VP,216683,Austin,Bachelor,Finance
-19,Manager,116287,Boston,Bachelor,Finance
-17,VP,166418,Seattle,PhD,Education
-24,CTO,213587,San Francisco,PhD,Consulting
-19,Senior Developer,77026,Los Angeles,PhD,Retail
-28,CIO,214327,Austin,PhD,Retail
-26,Developer,71685,San Francisco,Bachelor,Retail
-23,VP,174351,Boston,PhD,Education
-26,Developer,70058,Seattle,Bachelor,Finance
-5,Lead Developer,86221,Denver,PhD,Consulting
-26,VP,203354,Austin,Master's,Retail
-21,Senior Developer,93880,Chicago,PhD,Consulting
-30,Developer,82059,Seattle,PhD,Technology
-23,VP,198503,Los Angeles,Bachelor,Manufacturing
-9,Junior Developer,43332,San Francisco,PhD,Manufacturing
-12,CIO,187700,Boston,Master's,Consulting
-21,Senior Developer,81232,Chicago,Bachelor,Healthcare
-1,Developer,47002,Boston,Bachelor,Healthcare
-26,Senior Developer,90709,Chicago,PhD,Education
-26,Manager,116074,Austin,Bachelor,Education
-1,CIO,151000,Chicago,Bachelor,Manufacturing
-15,VP,173688,Los Angeles,Bachelor,Technology
-2,VP,127323,Los Angeles,Bachelor,Finance
-30,VP,181881,New York,Bachelor,Finance
-22,CIO,214237,Los Angeles,Bachelor,Education
-16,Junior Developer,47230,Seattle,Master's,Technology
-25,Lead Developer,122039,Chicago,PhD,Education
-8,Director,126923,Los Angeles,Master's,Finance
-13,CTO,191958,Austin,Bachelor,Consulting
-21,Developer,74133,Boston,Bachelor,Education
-1,Junior Developer,44560,Denver,PhD,Retail
-16,Developer,68084,Boston,Master's,Consulting
-29,VP,179295,New York,PhD,Education
-7,Senior Developer,65658,Boston,Master's,Manufacturing
-5,Developer,52012,Chicago,Bachelor,Education
-22,VP,162245,New York,PhD,Manufacturing
-29,Developer,73013,Chicago,PhD,Technology
-23,Senior Developer,98036,Austin,Bachelor,Finance
-3,VP,125149,New York,PhD,Consulting
-12,Lead Developer,101750,San Francisco,Master's,Consulting
-26,Junior Developer,58501,Seattle,Master's,Healthcare
-16,Manager,115169,Seattle,Master's,Healthcare
-19,CTO,225487,Chicago,Master's,Finance
-5,CIO,154097,Boston,Bachelor,Healthcare
-22,CTO,207855,Denver,PhD,Consulting
-25,CTO,228678,Denver,Master's,Education
-29,VP,185863,San Francisco,Bachelor,Technology
-14,Lead Developer,100920,New York,PhD,Technology
-28,Manager,125874,San Francisco,PhD,Finance
-5,Junior Developer,43482,San Francisco,Bachelor,Healthcare
-15,Junior Developer,45698,Boston,Bachelor,Education
-17,Senior Developer,81643,Denver,Master's,Technology
-30,CIO,227872,New York,PhD,Technology
-14,Developer,64518,Austin,PhD,Retail
-30,Lead Developer,130302,Boston,Bachelor,Retail
-20,Developer,60347,San Francisco,PhD,Consulting
-5,Manager,91600,San Francisco,Master's,Technology
-12,CTO,190800,Austin,PhD,Finance
-16,Junior Developer,50420,San Francisco,Bachelor,Manufacturing
-26,Manager,122001,San Francisco,Bachelor,Manufacturing
-26,CTO,259675,San Francisco,Master's,Education
-16,Junior Developer,49158,Seattle,Master's,Technology
-21,CTO,218862,Boston,PhD,Technology
-7,CIO,161369,Los Angeles,PhD,Consulting
-4,Lead Developer,79431,Boston,Bachelor,Technology
-1,Manager,78120,Austin,Master's,Finance
-30,Manager,132916,San Francisco,Master's,Retail
-30,Director,154878,Boston,Master's,Technology
-5,VP,122985,Seattle,PhD,Technology
-23,CIO,215669,Denver,Master's,Consulting
-26,CIO,197712,Austin,Bachelor,Healthcare
-10,Developer,60967,Chicago,Bachelor,Consulting
-22,CTO,219931,Boston,PhD,Consulting
-5,VP,120336,Chicago,PhD,Finance
-4,Lead Developer,83065,San Francisco,Master's,Education
-2,Lead Developer,73179,Seattle,PhD,Technology
-20,CIO,180968,Seattle,Bachelor,Consulting
-10,Lead Developer,81910,Boston,Master's,Consulting
-26,Director,155180,Austin,Bachelor,Healthcare
-19,Manager,116132,Austin,Master's,Consulting
-26,Senior Developer,101479,Seattle,PhD,Manufacturing
-1,Developer,48879,Austin,Master's,Education
-24,CTO,245215,Seattle,Master's,Technology
-5,CTO,155850,Boston,Bachelor,Technology
-13,Junior Developer,48004,Los Angeles,Bachelor,Healthcare
-4,Senior Developer,66246,Seattle,Master's,Finance
-16,CIO,180549,Chicago,PhD,Technology
-24,Director,141719,Austin,PhD,Manufacturing
-16,Manager,96314,Seattle,Bachelor,Technology
-23,Manager,118237,Seattle,PhD,Manufacturing
-2,Director,94734,Boston,Bachelor,Education
-17,VP,159738,Austin,PhD,Education
-28,Junior Developer,57676,Los Angeles,Master's,Retail
-27,CTO,240486,Boston,Bachelor,Retail
-20,Senior Developer,93588,Los Angeles,Bachelor,Manufacturing
-24,Lead Developer,108247,Denver,Master's,Finance
-12,Junior Developer,48792,Boston,Bachelor,Technology
-18,Senior Developer,86597,Austin,PhD,Consulting
-3,Developer,47971,New York,PhD,Technology
-28,Developer,73678,Austin,Bachelor,Retail
-1,Junior Developer,37512,Austin,PhD,Consulting
-1,CIO,156841,Los Angeles,Bachelor,Manufacturing
-29,Senior Developer,89670,Los Angeles,Master's,Consulting
-19,Senior Developer,83551,Austin,Bachelor,Technology
-11,Director,126681,Austin,Master's,Technology
-5,CIO,147256,Austin,PhD,Finance
-12,CTO,201957,Los Angeles,Master's,Healthcare
-3,CTO,145117,Austin,PhD,Consulting
-1,Lead Developer,80451,Austin,Bachelor,Retail
-1,Manager,76328,Denver,PhD,Retail
-8,Developer,52647,San Francisco,Bachelor,Healthcare
-10,CTO,178878,New York,Bachelor,Technology
-11,CIO,185659,Chicago,Master's,Finance
-12,Senior Developer,82178,New York,Master's,Finance
-29,CTO,228771,San Francisco,Master's,Retail
-13,Senior Developer,69742,Chicago,Master's,Finance
-12,CTO,200896,Boston,PhD,Education
-14,Developer,58261,Austin,PhD,Healthcare
-2,CTO,144435,San Francisco,PhD,Technology
-29,CIO,235290,Denver,Bachelor,Education
-19,CTO,204852,Boston,PhD,Healthcare
-18,Manager,113806,Austin,PhD,Manufacturing
-3,Developer,54319,Los Angeles,PhD,Consulting
-23,CIO,185148,Seattle,Master's,Retail
-17,Director,123296,San Francisco,PhD,Finance
-26,CIO,224085,Los Angeles,Bachelor,Manufacturing
-8,Manager,93259,San Francisco,Master's,Finance
-29,Developer,69536,Denver,Bachelor,Education
-26,Director,150954,San Francisco,PhD,Technology
-10,Manager,100409,Los Angeles,Master's,Technology
-26,Manager,114791,Denver,Bachelor,Technology
-30,Junior Developer,63480,Chicago,PhD,Finance
-2,Developer,50371,New York,Bachelor,Manufacturing
-19,CIO,209474,Austin,Bachelor,Technology
-9,Senior Developer,66304,San Francisco,Bachelor,Manufacturing
-7,Senior Developer,65708,Austin,PhD,Finance
-4,CIO,166901,Seattle,PhD,Education
-26,CIO,202904,Los Angeles,Bachelor,Manufacturing
-21,Developer,65798,Austin,Master's,Education
-18,CIO,200327,Los Angeles,Master's,Finance
-13,Junior Developer,52063,Austin,PhD,Finance
-11,Director,127874,New York,PhD,Retail
-29,CIO,211449,New York,PhD,Finance
-24,Senior Developer,86103,Denver,PhD,Finance
-4,CIO,162897,New York,PhD,Healthcare
-25,Junior Developer,60074,Denver,Master's,Technology
-21,CTO,226810,New York,PhD,Retail
-29,CTO,269966,New York,Bachelor,Consulting
-25,Manager,132300,New York,Bachelor,Retail
-4,Lead Developer,74404,Los Angeles,Master's,Retail
-10,Director,118655,San Francisco,Bachelor,Consulting
-5,VP,128924,Denver,Master's,Healthcare
-9,Manager,95440,Austin,Master's,Education
-24,CTO,210924,New York,Bachelor,Finance
-3,Senior Developer,66215,Los Angeles,PhD,Technology
-17,VP,176854,Los Angeles,Bachelor,Manufacturing
-3,Manager,86283,Los Angeles,Bachelor,Consulting
-16,VP,150885,Denver,Master's,Education
-4,Developer,56100,San Francisco,Bachelor,Consulting
-18,Lead Developer,91991,Denver,Master's,Finance
-17,Developer,66440,Austin,PhD,Healthcare
-7,VP,129717,San Francisco,PhD,Consulting
-24,Developer,68831,Chicago,PhD,Finance
-23,Junior Developer,59248,Boston,Bachelor,Finance
-30,CTO,267928,Los Angeles,Master's,Healthcare
-5,Junior Developer,43322,Denver,PhD,Retail
-12,CIO,173882,Chicago,Master's,Retail
-17,Developer,68128,Seattle,Master's,Technology
-23,CIO,206683,Denver,PhD,Technology
-13,Senior Developer,78608,New York,PhD,Retail
-23,Director,159196,Boston,Master's,Education
-25,Senior Developer,96391,New York,PhD,Manufacturing
-3,VP,117074,San Francisco,Master's,Finance
-9,CTO,172234,Boston,Master's,Manufacturing
-30,Developer,75964,Denver,PhD,Finance
-17,Manager,106721,Austin,Bachelor,Retail
-17,Director,132010,Chicago,PhD,Technology
-30,Lead Developer,122519,Austin,Bachelor,Education
-20,Lead Developer,95551,Denver,Master's,Technology
-16,Lead Developer,101325,San Francisco,Master's,Manufacturing
-25,Developer,73515,New York,Bachelor,Technology
-22,Lead Developer,108582,Boston,Master's,Retail
-13,Junior Developer,51338,Austin,Bachelor,Education
-27,Director,162395,Denver,Bachelor,Manufacturing
-19,Junior Developer,53720,Austin,Master's,Education
-17,Director,132539,Denver,Bachelor,Finance
-4,Junior Developer,40505,New York,PhD,Technology
-12,Director,111907,Boston,PhD,Education
-29,CIO,199259,Chicago,Master's,Healthcare
-9,Developer,54926,New York,Master's,Technology
-19,Developer,60501,Austin,Bachelor,Finance
-12,Lead Developer,89066,Chicago,Bachelor,Education
-9,Senior Developer,75739,Denver,Bachelor,Manufacturing
-7,Lead Developer,83176,Chicago,Bachelor,Finance
-28,VP,196889,Denver,PhD,Healthcare
-14,Junior Developer,53970,New York,PhD,Education
-20,Director,148253,Austin,Master's,Consulting
-19,Senior Developer,91130,San Francisco,Bachelor,Consulting
-26,VP,175291,Austin,Bachelor,Retail
-15,Developer,61242,Denver,Master's,Technology
-16,Developer,58961,Los Angeles,Bachelor,Manufacturing
-21,Lead Developer,108347,Boston,Bachelor,Retail
-5,Junior Developer,41863,Seattle,Bachelor,Education
-3,Senior Developer,68448,San Francisco,Bachelor,Consulting
-12,CTO,184255,Chicago,Bachelor,Consulting
-25,VP,172567,San Francisco,Master's,Consulting
-20,VP,176389,Boston,Bachelor,Education
-27,Lead Developer,115705,Chicago,Master's,Consulting
-21,Developer,69864,Boston,Bachelor,Finance
-4,Lead Developer,85324,Chicago,PhD,Education
-21,Director,138951,San Francisco,PhD,Manufacturing
-23,Senior Developer,98167,Chicago,PhD,Retail
-16,Junior Developer,53355,Chicago,PhD,Manufacturing
-25,CIO,190858,Los Angeles,Master's,Healthcare
-7,Manager,92090,Austin,Master's,Consulting
-13,Manager,102488,Austin,Bachelor,Healthcare
-21,Lead Developer,103528,Seattle,PhD,Technology
-10,Director,113698,Seattle,Master's,Technology
-26,Senior Developer,86473,Denver,Bachelor,Healthcare
-7,CTO,183543,Denver,Bachelor,Education
-14,Manager,104241,Denver,Master's,Manufacturing
-26,Senior Developer,102680,Los Angeles,PhD,Healthcare
-5,Junior Developer,47002,Seattle,Bachelor,Technology
-3,Director,99647,Boston,PhD,Healthcare
-23,Developer,71470,Denver,PhD,Education
-29,Senior Developer,99503,Denver,PhD,Healthcare
-11,Junior Developer,42870,San Francisco,Bachelor,Manufacturing
-11,CTO,185570,New York,PhD,Retail
-18,CIO,185192,Boston,Bachelor,Education
-15,Developer,68206,Denver,PhD,Technology
-12,CIO,192499,Denver,Bachelor,Manufacturing
-9,CTO,177641,Denver,PhD,Healthcare
-10,Junior Developer,48305,New York,Master's,Healthcare
-26,Manager,129782,New York,PhD,Retail
-12,CIO,172921,Los Angeles,PhD,Technology
-17,Developer,64745,Boston,Bachelor,Technology
-29,Lead Developer,119077,Los Angeles,Bachelor,Finance
-6,VP,136182,Chicago,PhD,Technology
-7,Senior Developer,69699,New York,Master's,Retail
-14,Manager,113566,San Francisco,Master's,Consulting
-13,CIO,164530,Seattle,Bachelor,Finance
-8,Senior Developer,70111,San Francisco,Master's,Finance
-10,Lead Developer,97512,Seattle,PhD,Healthcare
-9,CTO,188177,New York,Bachelor,Healthcare
-18,VP,155965,New York,PhD,Technology
-27,Junior Developer,56170,New York,Bachelor,Finance
-26,Lead Developer,115872,Los Angeles,Bachelor,Healthcare
-2,Lead Developer,83339,Boston,Bachelor,Retail
-5,CTO,155552,Seattle,Bachelor,Healthcare
-29,Director,142827,Boston,Master's,Education
-5,CTO,161989,Los Angeles,PhD,Education
-6,Director,114580,Los Angeles,PhD,Healthcare
-19,Director,130789,Austin,PhD,Finance
-8,Manager,86044,San Francisco,Bachelor,Consulting
-16,Manager,109171,San Francisco,Master's,Consulting
-13,Developer,57091,Chicago,PhD,Finance
-1,CIO,142984,Denver,Master's,Manufacturing
-22,CIO,208990,Los Angeles,Bachelor,Consulting
-20,Junior Developer,56185,Seattle,PhD,Education
-17,CIO,170949,Austin,Master's,Retail
-7,Manager,99858,Austin,Bachelor,Finance
-25,Developer,73267,Denver,Master's,Technology
-13,Developer,61942,Boston,PhD,Education
-4,Director,106375,Denver,PhD,Retail
-4,CTO,172464,Denver,Bachelor,Retail
-6,Junior Developer,42272,Denver,Bachelor,Finance
-28,Director,169946,San Francisco,Bachelor,Retail
-19,CTO,232047,Los Angeles,Master's,Finance
-29,CIO,237330,Chicago,Master's,Consulting
-12,Director,113587,Los Angeles,Master's,Healthcare
-22,Senior Developer,96874,Boston,Bachelor,Education
-7,CIO,174805,New York,PhD,Manufacturing
-27,CTO,228948,Denver,PhD,Healthcare
-10,Junior Developer,46059,Los Angeles,Master's,Education
-26,CTO,226026,Boston,Master's,Finance
-19,Director,126973,New York,PhD,Education
-7,Director,115759,New York,PhD,Consulting
-30,Lead Developer,117878,Denver,Master's,Finance
-3,Junior Developer,46183,Chicago,Master's,Healthcare
-13,CIO,172677,Seattle,PhD,Technology
-13,Developer,59190,San Francisco,Bachelor,Technology
-18,Junior Developer,54147,Los Angeles,Master's,Education
-28,Developer,67008,New York,PhD,Technology
-30,Junior Developer,57783,Los Angeles,PhD,Finance
-26,Junior Developer,58246,Seattle,PhD,Retail
-20,CTO,199298,San Francisco,PhD,Finance
-28,Junior Developer,57468,Seattle,Bachelor,Retail
-8,Lead Developer,80352,San Francisco,PhD,Healthcare
-29,Director,164593,Austin,Master's,Manufacturing
-9,VP,157484,San Francisco,Bachelor,Retail
-7,Developer,51966,Denver,PhD,Technology
-1,Director,92110,Chicago,Bachelor,Finance
-3,VP,129591,Seattle,Master's,Healthcare
-13,Developer,59288,New York,PhD,Technology
-28,Developer,67260,Denver,Master's,Healthcare
-30,VP,200316,Austin,PhD,Manufacturing
-25,Junior Developer,51584,Chicago,PhD,Consulting
-28,CIO,224066,Los Angeles,PhD,Finance
-17,Senior Developer,88411,Denver,PhD,Education
-25,Director,137866,Seattle,PhD,Finance
-24,CTO,212898,Boston,Bachelor,Manufacturing
-1,Director,110195,Boston,PhD,Finance
-6,CTO,157006,New York,PhD,Education
-21,VP,192793,San Francisco,Bachelor,Retail
-6,CTO,163956,New York,Bachelor,Healthcare
-26,Developer,65390,Boston,Bachelor,Education
-12,CIO,190863,Los Angeles,Bachelor,Technology
-13,CIO,168378,Austin,Bachelor,Manufacturing
-13,Developer,61786,Austin,Bachelor,Retail
-29,Lead Developer,115573,Seattle,PhD,Technology
-15,VP,147961,Austin,PhD,Technology
-21,Lead Developer,114738,Seattle,Master's,Manufacturing
-16,Lead Developer,97906,Denver,PhD,Retail
-22,Director,149790,Seattle,PhD,Consulting
-21,Director,150284,Denver,Bachelor,Technology
-11,Senior Developer,68919,Seattle,Bachelor,Technology
-28,CTO,248345,Boston,PhD,Retail
-5,Developer,55436,Boston,Master's,Finance
-4,Director,98787,San Francisco,Bachelor,Technology
-3,VP,138584,Denver,PhD,Healthcare
-19,CTO,234571,Chicago,PhD,Retail
-20,Senior Developer,95280,Denver,Master's,Technology
-25,Senior Developer,94350,Seattle,Master's,Manufacturing
-18,VP,170016,Seattle,Bachelor,Education
-15,Lead Developer,99204,Chicago,Master's,Healthcare
-9,CIO,160737,New York,PhD,Education
-17,VP,169684,Seattle,PhD,Education
-14,Manager,98454,San Francisco,Master's,Technology
-15,VP,153424,Austin,Master's,Healthcare
-1,Senior Developer,59317,Austin,Master's,Healthcare
-21,Developer,69619,Los Angeles,Master's,Finance
-22,Director,140450,Los Angeles,Bachelor,Education
-22,Developer,63528,Austin,Master's,Healthcare
-3,Senior Developer,64445,Austin,Bachelor,Finance
-16,Director,138942,Boston,PhD,Retail
-23,Manager,128788,San Francisco,Master's,Finance
-25,CIO,224892,Chicago,Bachelor,Manufacturing
-11,CTO,176848,Los Angeles,Master's,Consulting
-12,Senior Developer,68565,Boston,PhD,Technology
-10,Senior Developer,79136,Boston,PhD,Retail
-16,Senior Developer,77791,Chicago,PhD,Consulting
-8,Director,104989,Boston,Master's,Consulting
-6,Junior Developer,44124,Denver,Master's,Retail
-12,VP,156005,San Francisco,Bachelor,Manufacturing
-24,Junior Developer,56909,Austin,PhD,Finance
-28,Manager,121693,Seattle,Master's,Technology
-21,CIO,189068,Chicago,PhD,Finance
-8,Lead Developer,80762,Austin,PhD,Healthcare
-26,Manager,120460,Austin,Bachelor,Finance
-28,Lead Developer,106315,New York,Bachelor,Retail
-4,Lead Developer,83814,Denver,Bachelor,Technology
-26,CIO,198875,Chicago,Bachelor,Finance
-8,Developer,58984,Boston,PhD,Technology
-26,Junior Developer,52006,Seattle,Bachelor,Technology
-28,Senior Developer,94984,Chicago,Bachelor,Healthcare
-18,CTO,211553,Boston,Bachelor,Healthcare
-28,Lead Developer,116568,Austin,Bachelor,Retail
-28,Manager,131369,Seattle,PhD,Manufacturing
-5,Developer,53235,Boston,Bachelor,Consulting
-9,Lead Developer,88551,San Francisco,PhD,Technology
-4,Developer,50618,Boston,Master's,Manufacturing
-27,Developer,79009,New York,PhD,Consulting
-22,Lead Developer,106803,Denver,PhD,Consulting
-17,Director,127528,Austin,Bachelor,Retail
-9,VP,134968,Boston,Master's,Consulting
-1,Senior Developer,59821,Denver,Master's,Consulting
-21,Senior Developer,93919,Los Angeles,Master's,Technology
-20,Director,137126,Los Angeles,Master's,Technology
-13,Senior Developer,77166,Denver,PhD,Education
-28,Developer,78306,Denver,Master's,Manufacturing
-16,CIO,192642,New York,PhD,Finance
-29,Manager,130586,San Francisco,PhD,Healthcare
-13,Junior Developer,44803,Austin,PhD,Finance
-14,Senior Developer,81458,Chicago,Master's,Manufacturing
-3,CIO,165188,New York,Bachelor,Healthcare
-29,Lead Developer,125500,San Francisco,Bachelor,Finance
-6,VP,148914,Denver,Master's,Education
-18,Developer,60439,Chicago,Bachelor,Healthcare
-19,VP,171619,Denver,Bachelor,Technology
-5,Manager,89390,Denver,PhD,Finance
-15,Manager,102595,Los Angeles,PhD,Healthcare
-25,Director,157649,Los Angeles,Master's,Education
-2,CTO,153719,Chicago,Master's,Consulting
-10,Director,118283,New York,Bachelor,Healthcare
-24,CIO,203679,Los Angeles,PhD,Healthcare
-30,VP,202908,Austin,Master's,Education
-18,CTO,226952,Denver,Master's,Consulting
-27,Lead Developer,106352,Seattle,Master's,Finance
-13,Developer,59645,Boston,Master's,Retail
-5,VP,143715,Chicago,Master's,Finance
-23,Director,142804,Chicago,Master's,Consulting
-24,Junior Developer,59743,Los Angeles,Bachelor,Manufacturing
-1,CTO,148637,New York,PhD,Education
-22,CTO,235724,Denver,PhD,Finance
-1,Developer,52773,Austin,Master's,Healthcare
-18,Senior Developer,89662,New York,PhD,Education
-15,Manager,108833,San Francisco,PhD,Technology
-17,Manager,101407,San Francisco,PhD,Consulting
-11,Junior Developer,43407,Seattle,Master's,Finance
-21,CIO,183927,Los Angeles,Master's,Education
-26,CIO,220207,Los Angeles,PhD,Finance
-25,Lead Developer,114949,Los Angeles,PhD,Education
-22,VP,186683,Seattle,Master's,Healthcare
-27,Senior Developer,102623,San Francisco,Bachelor,Technology
-27,Director,157268,New York,PhD,Technology
-17,CTO,191313,Seattle,Bachelor,Manufacturing
-13,Junior Developer,44557,Seattle,PhD,Education
-1,Manager,85923,New York,Bachelor,Finance
-2,Lead Developer,75087,Los Angeles,Bachelor,Technology
-9,CIO,157754,Austin,Bachelor,Consulting
-3,Junior Developer,41358,New York,Master's,Technology
-1,CTO,147772,San Francisco,Bachelor,Retail
-21,Director,145145,Chicago,Bachelor,Retail
-16,Lead Developer,92675,Denver,Bachelor,Technology
-23,CTO,239186,Chicago,PhD,Education
-6,Manager,85198,Boston,Bachelor,Manufacturing
-28,Manager,115001,Boston,PhD,Technology
-17,Manager,119128,Seattle,Bachelor,Healthcare
-5,Junior Developer,46119,Denver,Bachelor,Finance
-5,Junior Developer,43066,Chicago,Master's,Manufacturing
-6,CIO,166829,Austin,PhD,Healthcare
-3,CIO,150973,Los Angeles,Bachelor,Manufacturing
-21,Director,155677,San Francisco,PhD,Healthcare
-23,Lead Developer,103866,Boston,PhD,Finance
-5,Developer,49172,Austin,Master's,Finance
-21,Developer,67465,San Francisco,Master's,Retail
-5,CTO,169094,San Francisco,Master's,Education
-10,Manager,97589,Los Angeles,Master's,Healthcare
-10,Lead Developer,82657,Denver,Master's,Retail
-19,Junior Developer,49941,Seattle,Master's,Healthcare
+experience,designation,salary,location,education_level,industry
+7,Junior Developer,71936.0,San Francisco,PhD,Education
+20,Developer,98201.0,Austin,Bachelor,nan
+29,Junior Developer,89598.0,LA,Master's,Manufacturing
+15,Developer,106092.0,Seattle,Masters,Manufacturing
+11,Junior Developer,77274.0,LA,PhD,nan
+8,Junior Developer,61795.0,San Francisco,Bachelor,nan
+29,VP,134343.0,Austin,PhD,nan
+21,nan,75129.0,LA,PhD,Education
+7,jr. dev,109800.0,LA,Masters,Healthcare
+26,CTO,133057.0,Seattle,PhD,Education
+19,Sr. Dev,94880.0,SF,PhD,Education
+23,Junior Developer,64310.0,Austin,Master's,Tech
+11,nan,84641.0,San Francisco,Bachelor,nan
+11,Manager,,Austin,Bachelor,Tech
+24,Developer,96187.0,New York,Master's,Healthcare
+21,Developer,,SF,PhD,Retail
+4,Developer,107899.0,New York,Master's,Education
+8,CTO,113085.0,San Francisco,Bachelor,Healthcare
+24,Manager,79340.0,Seattle,Bachelor,Tech
+3,Developer,108307.0,Seattle,Master's,Retail
+22,Senior Developer,97350.0,San Francisco,Bachelor,Education
+21,nan,84077.0,Chicago,PhD,Manufacturing
+2,Developer,51193.0,San Francisco,Bachelor,Education
+24,Junior Developer,122338.0,SF,PhD,Consulting
+12,Developer,112776.0,Boston,phd,Education
+6,CTO,107516.0,Seattle,Bachelor,Consulting
+2,Developer,136335.0,nan,Master's,Retail
+28,Developer,118355.0,SF,Bachelor,Education
+21,Junior Developer,110596.0,SF,PhD,Retail
+1,CTO,,SF,PhD,Retail
+12,Sr. Dev,125906.0,LA,Master's,Tech
+26,Senior Developer,92492.0,SF,Master's,Healthcare
+22,CTO,99374.0,Seattle,phd,Retail
+29,Manager,,Boston,Bachelor,Retail
+12,Manager,113214.0,Boston,Bachelor,Tech
+25,CTO,123665.0,SF,phd,Tech
+17,CTO,109027.0,New York,PhD,Education
+27,Senior Developer,104258.0,Seattle,phd,Tech
+27,VP,96945.0,Seattle,PhD,Education
+10,Junior Developer,-10548.0,Austin,Masters,Manufacturing
+28,Junior Developer,81372.0,Chicago,Master's,Tech
+28,Junior Developer,61752.0,Chicago,PhD,Healthcare
+16,Junior Developer,126322.0,New York,phd,Retail
+15,Manager,108571.0,Chicago,PhD,Healthcare
+15,VP,,Austin,Bachelor,Consulting
+19,Developer,79268.0,San Francisco,Bachelor,nan
+12,Junior Developer,78180.0,Chicago,Bachelor,Tech
+23,jr. dev,77645.0,Seattle,Bachelor,Retail
+20,Developer,46663.0,San Francisco,Master's,Healthcare
+25,Manager,,Chicago,PhD,Tech
+3,Sr. Dev,90871.0,Seattle,PhD,Tech
+5,nan,122259.0,Seattle,Master's,nan
+19,Senior Developer,73869.0,SF,PhD,Manufacturing
+7,Manager,99103.0,Boston,Bachelor,Manufacturing
+21,Sr. Dev,112027.0,New York,Bachelor,Retail
+9,Developer,60198.0,Austin,Bachelor,Consulting
+7,Junior Developer,89400.0,LA,Master's,Manufacturing
+18,Developer,,Chicago,Bachelor,nan
+4,Developer,138183.0,Chicago,Bachelor,Manufacturing
+25,Developer,136873.0,San Francisco,Master's,Consulting
+28,Developer,60229.0,San Francisco,Masters,Healthcare
+14,Developer,101576.0,Chicago,Bachelor,Manufacturing
+18,Junior Developer,122027.0,nan,PhD,nan
+26,Senior Developer,115449.0,Austin,PhD,Education
+9,VP,,Chicago,Masters,nan
+26,Sr. Dev,129196.0,Boston,phd,Education
+21,Senior Developer,62864.0,nan,Bachelor,Education
+2,CTO,80907.0,Austin,Bachelor,Manufacturing
+20,VP,63670.0,Chicago,phd,Healthcare
+28,Manager,113474.0,LA,Master's,Tech
+15,Developer,72520.0,SF,PhD,Healthcare
+28,jr. dev,84862.0,Boston,PhD,nan
+7,VP,108530.0,LA,PhD,Retail
+12,CTO,110947.0,San Francisco,phd,Education
+29,Manager,62786.0,San Francisco,nan,Healthcare
+8,CTO,121699.0,Chicago,PhD,Consulting
+15,Manager,103670.0,San Francisco,Bachelor,nan
+3,Manager,,Boston,phd,Education
+14,CTO,50168.0,Austin,Bachelor,Education
+17,Junior Developer,89525.0,Seattle,Bachelor,nan
+4,Senior Developer,115502.0,New York,phd,Education
+18,CTO,116271.0,Austin,Bachelor,Consulting
+8,Manager,100685.0,Seattle,Bachelor,Manufacturing
+4,Senior Developer,91460.0,nan,Bachelor,Consulting
+2,Developer,105352.0,Boston,phd,Consulting
+6,VP,64340.0,LA,Master's,Manufacturing
+22,Junior Developer,140609.0,Seattle,PhD,Manufacturing
+10,jr. dev,140218.0,Boston,Bachelor,Manufacturing
+4,Manager,102864.0,SF,Masters,Manufacturing
+22,Developer,95919.0,LA,Masters,Manufacturing
+29,CTO,77657.0,San Francisco,Master's,Consulting
+18,nan,105862.0,San Francisco,Master's,Retail
+26,Developer,69260.0,LA,Bachelor,Retail
+12,Developer,,nan,nan,nan
+2,Developer,8576.0,nan,PhD,Healthcare
+10,Junior Developer,66015.0,nan,phd,Retail
+4,Senior Developer,94691.0,Seattle,Master's,Education
+14,Developer,,Seattle,Masters,Retail
+16,Manager,,Chicago,Masters,Consulting
+15,Developer,94255.0,New York,PhD,Manufacturing
+8,Junior Developer,81773.0,LA,nan,nan
+14,CTO,60020.0,Austin,Master's,Manufacturing
+23,Manager,88387.0,New York,Bachelor,Tech
+28,Manager,114388.0,SF,PhD,Tech
+25,VP,61378.0,Seattle,PhD,Tech
+8,CTO,61391.0,Seattle,PhD,Consulting
+21,CTO,57922.0,Boston,Bachelor,Education
+16,Manager,,New York,Master's,Retail
+13,Manager,75593.0,Boston,Master's,Consulting
+18,Developer,111422.0,Austin,Master's,Healthcare
+15,Junior Developer,95217.0,Boston,PhD,nan
+21,CTO,84922.0,New York,PhD,Manufacturing
+24,CTO,93871.0,LA,Bachelor,Tech
+26,Developer,75330.0,SF,Master's,Education
+25,CTO,31563.0,Seattle,Bachelor,Healthcare
+28,Developer,113511.0,Austin,Bachelor,Tech
+28,nan,122133.0,Seattle,Masters,Education
+28,Senior Developer,68155.0,Chicago,phd,Healthcare
+13,Senior Developer,85474.0,SF,Master's,Consulting
+9,Manager,82890.0,Boston,Masters,Retail
+29,Senior Developer,100538.0,San Francisco,phd,Manufacturing
+15,VP,140696.0,New York,Masters,nan
+13,Sr. Dev,124793.0,Seattle,Bachelor,Education
+1,Junior Developer,78692.0,Boston,nan,Education
+25,Junior Developer,106273.0,Austin,Master's,Education
+7,Senior Developer,127630.0,Seattle,Master's,Healthcare
+9,Developer,102250.0,SF,Bachelor,Education
+24,CTO,89859.0,SF,Master's,Retail
+1,Junior Developer,103380.0,Seattle,Bachelor,Tech
+12,Sr. Dev,,Austin,Bachelor,Retail
+8,Developer,73281.0,SF,Master's,Tech
+24,Junior Developer,58078.0,SF,Masters,Education
+11,VP,99211.0,New York,phd,Manufacturing
+19,Developer,86057.0,Austin,Master's,Retail
+17,Manager,65306.0,Austin,phd,Education
+8,Junior Developer,85074.0,LA,phd,Healthcare
+3,Junior Developer,104099.0,LA,Masters,Education
+3,Junior Developer,147441.0,SF,Bachelor,Education
+1,Developer,120362.0,San Francisco,PhD,Consulting
+27,Sr. Dev,21475.0,LA,phd,Retail
+5,Junior Developer,97179.0,SF,PhD,nan
+10,Senior Developer,132879.0,nan,Master's,Manufacturing
+7,Junior Developer,49863.0,Chicago,Master's,Manufacturing
+26,Junior Developer,106546.0,Chicago,PhD,Consulting
+9,Developer,82900.0,Austin,Master's,Tech
+28,Senior Developer,124508.0,San Francisco,Bachelor,Education
+7,Senior Developer,102127.0,New York,Master's,Tech
+9,Senior Developer,63479.0,LA,Masters,Manufacturing
+8,VP,83974.0,nan,phd,Education
+12,Manager,,SF,Bachelor,Consulting
+2,Developer,86304.0,San Francisco,nan,Healthcare
+1,Senior Developer,,Austin,Master's,Retail
+16,Developer,64721.0,LA,PhD,Retail
+23,VP,120091.0,San Francisco,Masters,nan
+23,Junior Developer,80932.0,LA,Masters,Retail
+24,Manager,,New York,phd,Education
+5,jr. dev,92171.0,New York,Master's,Healthcare
+3,Sr. Dev,89345.0,Chicago,phd,Consulting
+12,Manager,89591.0,Boston,Bachelor,Consulting
+8,Manager,133720.0,Boston,PhD,Retail
+22,Sr. Dev,115273.0,LA,PhD,Healthcare
+27,CTO,,Boston,PhD,Healthcare
+3,Junior Developer,137483.0,Austin,Bachelor,Healthcare
+1,Sr. Dev,98240.0,Boston,phd,Manufacturing
+3,Senior Developer,100728.0,Seattle,Bachelor,Manufacturing
+5,CTO,64880.0,SF,Bachelor,Retail
+15,Junior Developer,75075.0,Austin,PhD,Healthcare
+14,Junior Developer,69344.0,San Francisco,Master's,Education
+3,Senior Developer,92582.0,Austin,Masters,Healthcare
+1,Developer,109163.0,Chicago,Master's,Consulting
+5,Senior Developer,101016.0,San Francisco,Bachelor,Consulting
+26,Senior Developer,137641.0,nan,Masters,Retail
+23,Senior Developer,63367.0,SF,Master's,Education
+14,CTO,93446.0,SF,Bachelor,Healthcare
+7,nan,51511.0,SF,PhD,Tech
+27,Manager,62343.0,SF,Master's,Education
+9,CTO,,LA,PhD,nan
+15,jr. dev,76105.0,SF,Master's,Retail
+15,CTO,65899.0,SF,Masters,Consulting
+26,Junior Developer,,SF,Masters,Tech
+10,Senior Developer,,LA,PhD,Consulting
+28,Senior Developer,,New York,Bachelor,Manufacturing
+13,Manager,49277.0,Austin,Masters,Retail
+19,Manager,82116.0,Austin,PhD,Retail
+7,Developer,128118.0,San Francisco,PhD,Healthcare
+17,Senior Developer,68780.0,Seattle,Master's,Healthcare
+20,Manager,61698.0,Austin,phd,Manufacturing
+29,VP,56282.0,Boston,PhD,Tech
+4,Manager,55747.0,Seattle,Bachelor,nan
+5,Developer,,SF,Master's,Education
+23,CTO,91460.0,SF,phd,Education
+7,Senior Developer,118705.0,LA,Bachelor,Education
+13,Developer,150595.0,Seattle,nan,Education
+15,CTO,35088.0,Boston,PhD,Retail
+11,CTO,101402.0,LA,PhD,Education
+29,Manager,56441.0,San Francisco,Bachelor,Retail
+4,Manager,113666.0,Seattle,Bachelor,nan
+13,Developer,81842.0,SF,phd,Education
+7,Junior Developer,90819.0,SF,Bachelor,Consulting
+27,Senior Developer,51504.0,Chicago,Masters,Retail
+19,Junior Developer,77207.0,LA,Master's,Retail
+22,Developer,92689.0,New York,Bachelor,Retail
+28,Senior Developer,130682.0,New York,Bachelor,Tech
+2,jr. dev,66163.0,LA,Master's,Manufacturing
+10,CTO,73479.0,nan,nan,Retail
+13,Developer,118328.0,LA,Master's,nan
+25,nan,64219.0,San Francisco,Master's,Healthcare
+21,Developer,124271.0,SF,Master's,Healthcare
+6,jr. dev,89727.0,Boston,Master's,Education
+28,Manager,99093.0,nan,Master's,Consulting
+28,CTO,101025.0,Seattle,phd,Manufacturing
+12,Senior Developer,,nan,Master's,Tech
+12,Junior Developer,101696.0,Boston,Master's,Education
+20,CTO,66828.0,Chicago,Bachelor,Healthcare
+11,CTO,74936.0,SF,nan,Manufacturing
+26,Senior Developer,106760.0,New York,Bachelor,Manufacturing
+23,CTO,98801.0,LA,Bachelor,Consulting
+28,jr. dev,87751.0,LA,PhD,nan
+25,CTO,52238.0,New York,PhD,Manufacturing
+7,Developer,59725.0,nan,Master's,Retail
+1,Developer,98301.0,SF,Master's,Manufacturing
+1,nan,,Austin,Masters,Consulting
+25,VP,56710.0,San Francisco,Bachelor,Education
+27,Developer,,Boston,Masters,Consulting
+25,nan,94025.0,nan,PhD,Tech
+20,Sr. Dev,93383.0,Seattle,Master's,Consulting
+13,Junior Developer,41281.0,Chicago,Master's,Healthcare
+9,Manager,94846.0,LA,Bachelor,Retail
+3,Senior Developer,72048.0,nan,Masters,nan
+7,Junior Developer,139231.0,Chicago,Master's,Healthcare
+6,VP,97475.0,Boston,Master's,Education
+8,Developer,102644.0,LA,PhD,Education
+27,Developer,103420.0,LA,nan,Education
+9,Junior Developer,53582.0,Austin,Master's,Retail
+5,jr. dev,148316.0,nan,phd,Manufacturing
+1,VP,,SF,Master's,Consulting
+19,Developer,113871.0,New York,Bachelor,Education
+10,Sr. Dev,,New York,Bachelor,Retail
+12,VP,75689.0,San Francisco,Master's,Healthcare
+24,Senior Developer,109993.0,Seattle,Bachelor,Consulting
+15,Developer,80472.0,Chicago,Bachelor,Education
+27,Manager,69736.0,nan,phd,Healthcare
+22,Junior Developer,,Seattle,Masters,Retail
+24,Developer,59803.0,Austin,PhD,Retail
+9,Senior Developer,83272.0,LA,Bachelor,Education
+20,Developer,72174.0,SF,Bachelor,Education
+17,Manager,79920.0,nan,Bachelor,Education
+17,jr. dev,102981.0,Seattle,PhD,Manufacturing
+26,Senior Developer,72169.0,Seattle,phd,Healthcare
+20,nan,84230.0,SF,Master's,Education
+12,Developer,,San Francisco,Bachelor,Consulting
+7,Junior Developer,,Chicago,Master's,Tech
+2,CTO,100278.0,Chicago,Master's,Manufacturing
+3,nan,96602.0,Seattle,Master's,Education
+17,Manager,110502.0,Boston,PhD,Tech
+5,Junior Developer,72175.0,Seattle,PhD,Tech
+17,Manager,115777.0,Seattle,Bachelor,Healthcare
+24,CTO,100385.0,SF,Bachelor,Retail
+17,Developer,43173.0,LA,nan,Consulting
+27,VP,47159.0,SF,Bachelor,Education
+17,Manager,72831.0,nan,Bachelor,Healthcare
+2,Senior Developer,50369.0,Seattle,Bachelor,Manufacturing
+2,VP,,Chicago,Bachelor,nan
+28,Manager,59587.0,Chicago,Master's,Tech
+22,Junior Developer,87068.0,New York,Masters,Manufacturing
+23,Sr. Dev,132351.0,San Francisco,Master's,Tech
+5,VP,88518.0,Austin,Master's,Retail
+1,VP,80911.0,nan,PhD,nan
+1,Developer,101647.0,nan,Master's,Retail
+19,CTO,69107.0,San Francisco,phd,Consulting
+2,Developer,115302.0,Austin,phd,Education
+21,Manager,104856.0,LA,Bachelor,Consulting
+12,Junior Developer,91165.0,Seattle,Masters,Retail
+26,Manager,94629.0,Austin,Master's,Retail
+6,Manager,151252.0,Boston,nan,Manufacturing
+23,Developer,118269.0,New York,Master's,Retail
+4,Junior Developer,155985.0,Austin,nan,nan
+23,Junior Developer,105960.0,Austin,Masters,nan
+11,Senior Developer,45849.0,New York,Bachelor,Education
+24,Senior Developer,,Seattle,Master's,Tech
+27,Developer,38993.0,Austin,nan,Healthcare
+17,Senior Developer,105849.0,New York,phd,Retail
+6,VP,,New York,Bachelor,Consulting
+24,Manager,63422.0,New York,PhD,Education
+5,CTO,70330.0,SF,Master's,Tech
+20,Developer,94462.0,SF,Bachelor,Tech
+2,Manager,54056.0,Boston,Master's,Education
+6,Developer,51805.0,LA,Bachelor,Education
+22,Manager,127158.0,SF,Masters,Tech
+11,Manager,,SF,Master's,Education
+16,nan,73256.0,LA,Masters,Consulting
+16,Junior Developer,39236.0,San Francisco,Bachelor,Education
+1,Junior Developer,115570.0,New York,Master's,Retail
+9,Developer,69464.0,nan,Bachelor,Healthcare
+28,Junior Developer,,LA,Bachelor,Education
+27,Developer,115779.0,Boston,Bachelor,nan
+6,Manager,65755.0,Seattle,Bachelor,Consulting
+16,Sr. Dev,68535.0,Boston,PhD,Education
+29,Developer,141655.0,New York,Bachelor,Education
+3,VP,87472.0,LA,Master's,Manufacturing
+20,Sr. Dev,74600.0,Boston,Master's,Retail
+28,Manager,90831.0,Boston,phd,Healthcare
+27,nan,74462.0,San Francisco,phd,Retail
+4,Junior Developer,97231.0,San Francisco,Master's,Manufacturing
+19,Manager,87725.0,LA,Master's,Healthcare
+26,Senior Developer,116265.0,New York,Bachelor,Manufacturing
+3,CTO,78342.0,SF,nan,Retail
+19,Junior Developer,63455.0,Chicago,Bachelor,Education
+20,Developer,79530.0,Austin,Bachelor,Tech
+7,Developer,79347.0,nan,Bachelor,Retail
+20,nan,87673.0,Austin,Master's,Retail
+9,Junior Developer,109036.0,San Francisco,Bachelor,Retail
+1,VP,107397.0,LA,Masters,Consulting
+8,Manager,,Austin,Bachelor,Manufacturing
+7,Senior Developer,65655.0,New York,PhD,nan
+18,Manager,101661.0,nan,Bachelor,Manufacturing
+8,Manager,111819.0,Austin,Bachelor,Education
+1,Developer,69773.0,nan,phd,Manufacturing
+11,CTO,83771.0,Seattle,Bachelor,Education
+28,Manager,37500.0,New York,Masters,Consulting
+25,Junior Developer,117205.0,Chicago,Master's,Education
+25,Junior Developer,83535.0,Boston,Bachelor,Education
+18,Junior Developer,114196.0,nan,nan,Retail
+23,nan,96181.0,New York,Bachelor,Education
+10,Junior Developer,84445.0,nan,phd,Tech
+3,Junior Developer,42215.0,nan,Bachelor,Consulting
+7,Senior Developer,47551.0,SF,phd,Manufacturing
+28,Developer,12205.0,SF,Bachelor,Education
+16,nan,,New York,Master's,nan
+26,Developer,158347.0,SF,Masters,Retail
+16,VP,51361.0,Chicago,phd,Healthcare
+25,CTO,11057.0,LA,phd,Tech
+20,Junior Developer,118880.0,New York,Masters,Healthcare
+28,nan,160911.0,New York,phd,Education
+17,Developer,,San Francisco,Bachelor,Manufacturing
+2,VP,98661.0,San Francisco,Bachelor,nan
+1,Developer,80703.0,SF,Bachelor,Healthcare
+16,Developer,36172.0,LA,Master's,Education
+12,VP,46478.0,SF,Master's,Consulting
+5,nan,80497.0,Seattle,Master's,Education
+5,Sr. Dev,,Seattle,Bachelor,Tech
+27,VP,86544.0,Boston,PhD,nan
+23,VP,,Seattle,Bachelor,nan
+9,Junior Developer,72544.0,San Francisco,Master's,Education
+9,VP,115491.0,Chicago,Master's,Tech
+3,Junior Developer,72741.0,Seattle,Masters,Education
+19,CTO,121147.0,SF,PhD,nan
+16,nan,92591.0,nan,PhD,nan
+16,CTO,76925.0,New York,Bachelor,Retail
+3,Manager,92078.0,Chicago,Master's,Education
+20,Senior Developer,81193.0,Chicago,Bachelor,Education
+24,Junior Developer,93394.0,SF,Master's,Education
+22,Developer,112743.0,New York,Master's,nan
+24,Junior Developer,,San Francisco,Bachelor,Retail
+1,Junior Developer,,Chicago,Bachelor,Retail
+24,Manager,56294.0,Boston,nan,Consulting
+20,Developer,107375.0,SF,nan,Tech
+11,Developer,,Chicago,Master's,Manufacturing
+17,Junior Developer,54541.0,LA,Bachelor,Healthcare
+8,Manager,115064.0,New York,Bachelor,Healthcare
+4,CTO,54054.0,Seattle,Master's,Education
+6,VP,,Chicago,phd,Consulting
+8,VP,110635.0,SF,Bachelor,Education
+20,Manager,102589.0,Seattle,Masters,Healthcare
+3,CTO,78690.0,Boston,Bachelor,Tech
+16,Manager,107273.0,Seattle,nan,nan
+25,jr. dev,,LA,Master's,Tech
+3,CTO,107770.0,San Francisco,Masters,Tech
+25,Manager,69892.0,Chicago,Master's,Retail
+29,Manager,98022.0,Austin,PhD,nan
+18,CTO,,Austin,Bachelor,Manufacturing
+14,Developer,155972.0,Seattle,Bachelor,nan
+18,CTO,83843.0,New York,phd,Consulting
+2,VP,115736.0,Austin,phd,Retail
+22,Developer,124034.0,Austin,phd,Manufacturing
+3,CTO,65627.0,New York,PhD,Consulting
+16,Manager,143462.0,nan,Masters,Consulting
+29,jr. dev,,Austin,Bachelor,Healthcare
+9,Manager,114269.0,LA,Master's,Retail
+4,Manager,99159.0,Chicago,Master's,Consulting
+1,nan,91667.0,Chicago,PhD,Education
+4,Junior Developer,166404.0,SF,Master's,Tech
+1,Junior Developer,80962.0,SF,Bachelor,Consulting
+14,Manager,80479.0,New York,PhD,Manufacturing
+21,Sr. Dev,129944.0,Boston,Masters,Healthcare
+16,Junior Developer,112854.0,SF,Master's,Education
+20,Junior Developer,128462.0,New York,Bachelor,Tech
+24,Junior Developer,93506.0,SF,Bachelor,Healthcare
+8,Junior Developer,,SF,Bachelor,Education
+7,Junior Developer,147028.0,Boston,Bachelor,Retail
+3,Manager,64921.0,Austin,PhD,Retail
+17,CTO,86913.0,Seattle,PhD,Consulting
+1,Senior Developer,113947.0,nan,PhD,Education
+16,Manager,84124.0,SF,Master's,Retail
+12,Junior Developer,72895.0,SF,Masters,nan
+27,Senior Developer,108554.0,LA,Bachelor,Consulting
+19,CTO,130074.0,nan,Master's,Tech
+22,Developer,85774.0,Boston,Masters,Healthcare
+23,Junior Developer,,Chicago,Bachelor,Retail
+22,Manager,,SF,Bachelor,nan
+14,Senior Developer,,Seattle,phd,Healthcare
+6,jr. dev,122508.0,nan,Master's,Healthcare
+6,Developer,92431.0,Austin,PhD,Education
+13,CTO,65850.0,SF,Bachelor,Retail
+19,Senior Developer,,Chicago,PhD,Healthcare
+22,Sr. Dev,121535.0,Chicago,Master's,Education
+8,Junior Developer,,SF,Bachelor,Education
+27,Junior Developer,50141.0,San Francisco,PhD,Retail
+27,Manager,155724.0,Chicago,Bachelor,Education
+2,Junior Developer,48644.0,New York,Master's,Retail
+21,nan,79229.0,Chicago,Bachelor,nan
+1,Developer,96963.0,nan,Bachelor,Retail
+28,Senior Developer,81827.0,San Francisco,Bachelor,Education
+15,CTO,,Boston,Bachelor,Healthcare
+1,nan,107305.0,LA,phd,nan
+5,jr. dev,18248.0,Boston,Bachelor,Manufacturing
+28,VP,51993.0,Austin,Master's,Retail
+29,Sr. Dev,91327.0,LA,Bachelor,Healthcare
+16,nan,,Austin,Master's,Tech
+19,Developer,93882.0,LA,phd,Education
+4,Junior Developer,96829.0,LA,Bachelor,Consulting
+3,Manager,26522.0,New York,nan,Retail
+17,Developer,128209.0,Seattle,Bachelor,Education
+17,Senior Developer,75051.0,nan,PhD,Education
+12,Developer,64034.0,Boston,Master's,Education
+28,Junior Developer,96250.0,Chicago,phd,Education
+29,Junior Developer,93214.0,San Francisco,PhD,Education
+14,Manager,125900.0,nan,Master's,Retail
+21,Junior Developer,,Austin,Bachelor,Tech
+6,nan,124743.0,New York,Bachelor,Manufacturing
+3,Developer,,Austin,phd,Education
+28,Developer,94255.0,Seattle,Master's,Education
+9,VP,56557.0,San Francisco,Master's,Education
+5,Senior Developer,92930.0,New York,Masters,Education
+24,CTO,86571.0,Austin,Master's,Tech
+29,CTO,85281.0,Seattle,nan,nan
+17,CTO,85544.0,Austin,PhD,Tech
+14,Senior Developer,112091.0,nan,PhD,nan
+21,CTO,41779.0,San Francisco,phd,Retail
+3,Manager,63006.0,SF,Bachelor,Healthcare
+28,nan,,nan,Bachelor,Consulting
+1,jr. dev,54640.0,San Francisco,Master's,Consulting
+20,Manager,91383.0,Seattle,Bachelor,Healthcare
+29,VP,88474.0,New York,PhD,Retail
+21,Developer,47887.0,LA,phd,Consulting
+23,Junior Developer,46405.0,Austin,Master's,Tech
+1,jr. dev,,Boston,Master's,Education
+3,jr. dev,53379.0,San Francisco,nan,Healthcare
+18,Manager,90429.0,Chicago,Master's,Tech
+25,Manager,94685.0,Seattle,Master's,Manufacturing
+10,Senior Developer,96056.0,SF,Master's,Retail
+22,Manager,66662.0,LA,phd,Healthcare
+26,Junior Developer,89450.0,Chicago,PhD,Consulting
+3,jr. dev,,SF,Masters,Retail
+8,Junior Developer,51958.0,Boston,Masters,Education
+14,Senior Developer,93699.0,nan,Master's,Retail
+24,Sr. Dev,109694.0,Austin,Master's,Retail
+18,Developer,75276.0,New York,Masters,Education
+15,Senior Developer,121867.0,SF,Master's,Education
+22,Senior Developer,75976.0,LA,Masters,Education
+23,Junior Developer,64198.0,San Francisco,phd,Tech
+2,VP,106705.0,San Francisco,PhD,Retail
+27,Junior Developer,150998.0,LA,PhD,nan
+10,CTO,92560.0,San Francisco,Masters,Education
+2,nan,109047.0,SF,Masters,Education
+26,Junior Developer,74738.0,Seattle,Master's,Tech
+17,jr. dev,52751.0,San Francisco,Bachelor,nan
+8,nan,94987.0,nan,Master's,nan
+1,Junior Developer,99731.0,Boston,PhD,Healthcare
+9,jr. dev,79262.0,New York,Master's,Education
+11,CTO,108931.0,SF,PhD,Education
+22,Sr. Dev,70377.0,Chicago,Master's,Retail
+16,CTO,62937.0,LA,PhD,Tech
+7,VP,121819.0,SF,Bachelor,Healthcare
+29,CTO,121960.0,Seattle,PhD,Manufacturing
+10,jr. dev,70969.0,nan,Master's,Manufacturing
+23,Developer,141565.0,LA,Bachelor,Consulting
+26,CTO,81386.0,San Francisco,Bachelor,Education
+3,jr. dev,92543.0,SF,PhD,Education
+18,Senior Developer,87460.0,Boston,Master's,Healthcare
+25,Junior Developer,105712.0,LA,Bachelor,Education
+24,Junior Developer,98142.0,Austin,nan,Manufacturing
+13,Senior Developer,,nan,PhD,Consulting
+28,Senior Developer,59413.0,New York,nan,Healthcare
+26,Sr. Dev,39343.0,LA,Master's,Education
+7,Junior Developer,124264.0,Seattle,Master's,Manufacturing
+25,VP,73636.0,SF,phd,Tech
+4,Junior Developer,88528.0,San Francisco,Master's,Consulting
+13,jr. dev,99803.0,New York,PhD,Retail
+20,nan,138870.0,New York,Bachelor,Manufacturing
+1,Manager,94840.0,nan,Master's,Consulting
+8,jr. dev,78156.0,Seattle,Bachelor,Healthcare
+14,Junior Developer,74293.0,San Francisco,Bachelor,Retail
+16,Developer,88879.0,New York,Bachelor,Consulting
+14,Senior Developer,62719.0,Seattle,Bachelor,Consulting
+12,Sr. Dev,90866.0,Seattle,nan,nan
+19,Junior Developer,88439.0,Chicago,Bachelor,nan
+23,CTO,139245.0,SF,PhD,nan
+15,Developer,,New York,Masters,Education
+28,Senior Developer,32265.0,New York,PhD,Education
+2,Junior Developer,170205.0,Seattle,Bachelor,Manufacturing
+2,Junior Developer,118705.0,New York,PhD,Education
+23,Senior Developer,152470.0,Seattle,PhD,Tech
+22,CTO,55280.0,New York,PhD,Retail
+19,Junior Developer,83345.0,Seattle,Masters,Education
+25,Manager,110232.0,Chicago,nan,Consulting
+26,Junior Developer,106091.0,SF,PhD,Education
+29,Developer,99208.0,Seattle,Master's,nan
+22,Junior Developer,24011.0,New York,PhD,Education
+26,Senior Developer,38626.0,San Francisco,Bachelor,Tech
+26,Junior Developer,135525.0,SF,phd,Manufacturing
+22,Manager,140859.0,Chicago,Bachelor,Tech
+17,Developer,86800.0,Seattle,Master's,Retail
+20,Manager,131712.0,San Francisco,Masters,Healthcare
+10,Junior Developer,59303.0,Seattle,PhD,Education
+6,Developer,66167.0,New York,Master's,nan
+15,Developer,56931.0,LA,Master's,Retail
+22,Junior Developer,64502.0,nan,phd,Healthcare
+11,Developer,111680.0,Boston,Master's,nan
+28,Sr. Dev,64129.0,San Francisco,phd,nan
+5,Junior Developer,157192.0,Austin,Bachelor,nan
+1,Developer,103802.0,Seattle,Masters,Education
+8,Developer,122535.0,Seattle,Masters,Retail
+21,Manager,104698.0,Boston,Bachelor,nan
+28,Junior Developer,126428.0,Boston,Master's,Tech
+12,Junior Developer,63960.0,Austin,Bachelor,Retail
+12,jr. dev,133408.0,New York,PhD,Education
+5,nan,94228.0,nan,Master's,Tech
+7,VP,126277.0,LA,PhD,Education
+4,Manager,46813.0,LA,Bachelor,nan
+6,VP,95417.0,Chicago,Bachelor,Retail
+13,CTO,94357.0,Chicago,Bachelor,Consulting
+20,Manager,71422.0,New York,Master's,Education
+15,Junior Developer,,Chicago,PhD,Retail
+3,Developer,136188.0,Chicago,phd,Education
+23,Manager,69115.0,Austin,PhD,nan
+8,Developer,118855.0,Austin,Master's,Healthcare
+20,Senior Developer,56177.0,Chicago,nan,nan
+16,Junior Developer,153283.0,SF,PhD,Healthcare
+13,Junior Developer,113538.0,SF,phd,Consulting
+18,Manager,141753.0,New York,Master's,Education
+28,Sr. Dev,110161.0,LA,Bachelor,Education
+10,Junior Developer,101718.0,Boston,Bachelor,Retail
+19,jr. dev,113787.0,New York,PhD,Retail
+17,CTO,85906.0,Chicago,Bachelor,Healthcare
+24,Developer,41464.0,Austin,Master's,Education
+19,Senior Developer,103421.0,Seattle,Master's,Tech
+28,Developer,67334.0,San Francisco,PhD,Consulting
+26,Developer,56950.0,Austin,PhD,Healthcare
+23,Senior Developer,109088.0,SF,Bachelor,Healthcare
+26,Junior Developer,81626.0,Austin,Master's,Consulting
+5,jr. dev,120831.0,Boston,PhD,Education
+26,nan,66331.0,Chicago,nan,Retail
+21,Junior Developer,75875.0,Seattle,PhD,Education
+23,Developer,124508.0,SF,phd,Education
+9,Sr. Dev,98395.0,SF,Masters,Tech
+12,jr. dev,45680.0,nan,PhD,nan
+21,nan,97732.0,LA,Bachelor,Manufacturing
+1,Developer,134437.0,Boston,PhD,Manufacturing
+26,Manager,75642.0,SF,PhD,Manufacturing
+26,Senior Developer,107941.0,LA,PhD,Consulting
+1,Senior Developer,64518.0,SF,Master's,Healthcare
+15,Developer,85896.0,Chicago,Master's,Tech
+2,Developer,122695.0,LA,Master's,Education
+22,Senior Developer,96576.0,nan,Master's,nan
+16,jr. dev,128678.0,Chicago,Bachelor,Retail
+25,Developer,,Seattle,Masters,Manufacturing
+8,CTO,156562.0,Boston,Bachelor,Education
+13,Manager,43052.0,Boston,Bachelor,Manufacturing
+21,CTO,83484.0,San Francisco,Master's,Tech
+1,Junior Developer,57463.0,San Francisco,PhD,Manufacturing
+16,Senior Developer,59512.0,LA,Master's,Retail
+29,Junior Developer,59784.0,Boston,Bachelor,nan
+7,Junior Developer,95031.0,LA,PhD,Education
+5,Manager,96789.0,San Francisco,Master's,Education
+22,CTO,102823.0,Seattle,phd,Tech
+29,Junior Developer,56308.0,SF,phd,Education
+23,Developer,,Austin,Master's,Consulting
+3,Senior Developer,61071.0,LA,Master's,Healthcare
+12,Sr. Dev,118076.0,Seattle,PhD,Consulting
+26,nan,63891.0,Boston,Bachelor,Education
+16,Junior Developer,,SF,Master's,Consulting
+19,Manager,106809.0,nan,Master's,Education
+5,Junior Developer,,San Francisco,phd,Education
+22,CTO,110816.0,Austin,Bachelor,Healthcare
+25,VP,137882.0,Seattle,PhD,Retail
+29,Senior Developer,95691.0,SF,PhD,nan
+14,CTO,117048.0,Chicago,Master's,Tech
+28,Senior Developer,27797.0,New York,Bachelor,Healthcare
+5,Junior Developer,77128.0,Austin,nan,Tech
+15,VP,95547.0,Austin,Master's,Education
+17,Senior Developer,58411.0,New York,PhD,Education
+14,CTO,96229.0,nan,Bachelor,Consulting
+20,Manager,121798.0,Chicago,Master's,Education
+5,nan,,San Francisco,Master's,Manufacturing
+12,Junior Developer,54327.0,Seattle,Bachelor,Manufacturing
+16,Manager,95544.0,SF,Bachelor,Tech
+26,VP,,Seattle,Masters,Education
+26,Manager,112142.0,Chicago,Bachelor,Tech
+16,nan,93326.0,Seattle,Bachelor,Healthcare
+21,Developer,103845.0,New York,Master's,Retail
+7,VP,117104.0,Austin,Masters,nan
+4,Developer,77566.0,Seattle,Bachelor,Healthcare
+1,nan,71742.0,LA,PhD,Education
+5,Sr. Dev,,Chicago,Bachelor,Education
+23,Developer,95984.0,nan,Bachelor,Retail
+26,Developer,70251.0,LA,Bachelor,Tech
+10,Junior Developer,78187.0,New York,Masters,Consulting
+22,Junior Developer,101931.0,Boston,Bachelor,Consulting
+5,CTO,94732.0,New York,Bachelor,Retail
+4,Junior Developer,84439.0,nan,Master's,Consulting
+2,Manager,37767.0,nan,Masters,Manufacturing
+20,Senior Developer,,LA,Bachelor,Consulting
+10,Senior Developer,60899.0,Chicago,Master's,Consulting
+26,Developer,119492.0,San Francisco,Bachelor,Consulting
+19,Sr. Dev,80738.0,Austin,Master's,Manufacturing
+26,Junior Developer,60113.0,LA,PhD,Tech
+1,CTO,88153.0,nan,PhD,Consulting
+24,jr. dev,128120.0,Boston,Master's,Education
+5,Junior Developer,108924.0,SF,Master's,Manufacturing
+13,Developer,96597.0,nan,Bachelor,Retail
+4,Manager,50217.0,nan,Master's,Healthcare
+16,Senior Developer,138648.0,LA,Bachelor,Retail
+24,nan,71351.0,nan,Masters,Healthcare
+16,Senior Developer,118013.0,nan,nan,nan
+23,VP,80239.0,Chicago,nan,Retail
+2,Developer,,Austin,phd,Education
+17,Junior Developer,129206.0,Boston,PhD,Healthcare
+28,VP,109444.0,Chicago,PhD,Healthcare
+27,nan,112675.0,San Francisco,Bachelor,Education
+20,Junior Developer,87046.0,San Francisco,PhD,Healthcare
+24,jr. dev,76981.0,Seattle,Master's,Healthcare
+12,CTO,94148.0,LA,Master's,Education
+18,VP,79802.0,LA,Masters,Consulting
+3,VP,164016.0,New York,Bachelor,Consulting
+28,Senior Developer,60229.0,Boston,Master's,Education
+1,Sr. Dev,120062.0,nan,phd,Manufacturing
+1,Sr. Dev,105515.0,Boston,Bachelor,nan
+29,VP,96896.0,Seattle,Master's,Healthcare
+19,Developer,134396.0,New York,phd,Healthcare
+11,VP,,Chicago,PhD,Education
+5,Manager,70952.0,Boston,Master's,Education
+12,VP,98751.0,Chicago,Bachelor,Manufacturing
+3,CTO,84504.0,San Francisco,Master's,Education
+1,CTO,105098.0,Seattle,phd,Consulting
+1,Developer,114392.0,nan,PhD,Retail
+8,Manager,64227.0,Austin,Master's,Education
+10,Junior Developer,,LA,Bachelor,Tech
+11,Junior Developer,82353.0,Seattle,Bachelor,Consulting
+12,Manager,103308.0,Boston,nan,Healthcare
+29,Developer,108510.0,SF,Master's,Tech
+13,CTO,101021.0,LA,PhD,Education
+12,VP,86726.0,LA,Bachelor,Education
+14,Manager,75342.0,SF,PhD,Manufacturing
+2,VP,81930.0,New York,phd,Consulting
+29,Senior Developer,136955.0,New York,PhD,Manufacturing
+19,Manager,64024.0,SF,Bachelor,Tech
+18,Developer,68422.0,Austin,PhD,Consulting
+3,jr. dev,67105.0,San Francisco,Masters,nan
+23,Manager,94072.0,SF,Master's,nan
+17,Junior Developer,44258.0,San Francisco,phd,Education
+26,Junior Developer,49393.0,Austin,PhD,Healthcare
+8,Junior Developer,82171.0,Seattle,phd,nan
+29,VP,51366.0,San Francisco,PhD,nan
+26,Senior Developer,53811.0,LA,Bachelor,Retail
+10,CTO,51591.0,LA,Master's,Manufacturing
+26,Manager,64601.0,Austin,Bachelor,Manufacturing
+2,Junior Developer,111937.0,San Francisco,phd,nan
+19,Manager,118671.0,Chicago,Masters,Retail
+9,Senior Developer,147570.0,Austin,PhD,Manufacturing
+7,Manager,146470.0,Austin,Master's,Manufacturing
+4,Senior Developer,113589.0,Chicago,Bachelor,Consulting
+26,Developer,120830.0,San Francisco,Masters,Consulting
+21,Junior Developer,93933.0,San Francisco,Master's,Retail
+18,nan,105595.0,LA,Bachelor,Tech
+13,Manager,148308.0,Austin,PhD,Healthcare
+11,Developer,101136.0,Austin,Bachelor,Education
+29,VP,124597.0,nan,Master's,nan
+24,Developer,61969.0,Seattle,Master's,nan
+4,Developer,70012.0,Austin,Bachelor,Education
+25,CTO,99362.0,Boston,nan,nan
+21,CTO,,Seattle,Bachelor,nan
+29,CTO,,Boston,Bachelor,Tech
+25,CTO,162221.0,San Francisco,Bachelor,Manufacturing
+4,Junior Developer,95177.0,Seattle,Masters,Healthcare
+10,Manager,76718.0,Austin,Master's,nan
+5,VP,94548.0,Chicago,PhD,Retail
+9,CTO,90762.0,LA,Bachelor,Tech
+24,Developer,95634.0,Boston,Bachelor,nan
+3,VP,42188.0,Seattle,Master's,Retail
+17,nan,128758.0,Austin,Masters,Consulting
+3,Senior Developer,130464.0,Seattle,phd,Manufacturing
+16,Manager,134109.0,Austin,Bachelor,Education
+4,Manager,99762.0,Austin,Master's,nan
+18,Manager,,Austin,phd,Retail
+17,Developer,64013.0,nan,Master's,Tech
+7,Senior Developer,114986.0,LA,Masters,Manufacturing
+24,Developer,97553.0,Chicago,Bachelor,Healthcare
+23,Manager,76187.0,Chicago,phd,Tech
+5,VP,115942.0,Seattle,Masters,Consulting
+12,VP,117103.0,Seattle,phd,Education
+17,Manager,91818.0,Austin,PhD,nan
+23,CTO,103151.0,nan,Master's,Healthcare
+13,Manager,59048.0,Austin,phd,Retail
+23,Junior Developer,127295.0,nan,Bachelor,nan
+25,Manager,63035.0,Austin,Master's,Retail
+3,Junior Developer,68837.0,Boston,PhD,Healthcare
+9,Manager,91869.0,Boston,Masters,Retail
+17,CTO,123435.0,San Francisco,phd,Tech
+17,CTO,123418.0,Austin,Bachelor,Manufacturing
+20,VP,89855.0,LA,Masters,Retail
+16,Junior Developer,113190.0,San Francisco,PhD,Consulting
+25,VP,39328.0,Seattle,Bachelor,Manufacturing
+22,Senior Developer,68420.0,Austin,Master's,Tech
+13,Manager,69031.0,Boston,Bachelor,nan
+27,jr. dev,127566.0,nan,Master's,Education
+19,Junior Developer,109639.0,LA,nan,nan
+17,CTO,95539.0,Austin,PhD,Retail
+4,CTO,98452.0,Chicago,PhD,Retail
+12,Manager,137050.0,Chicago,nan,Consulting
+29,Senior Developer,,nan,Master's,Tech
+9,Senior Developer,,San Francisco,Masters,Consulting
+19,jr. dev,122615.0,Chicago,Master's,Education
+12,Manager,95455.0,San Francisco,phd,Tech
+9,Senior Developer,118610.0,Boston,Bachelor,Healthcare
+7,Manager,,Austin,phd,Healthcare
+28,VP,64839.0,Boston,Bachelor,Healthcare
+14,Junior Developer,102084.0,Boston,Master's,Consulting
+20,Manager,90305.0,SF,Masters,Healthcare
+19,CTO,95548.0,New York,Master's,Tech
+26,Sr. Dev,138497.0,LA,PhD,Healthcare
+15,Senior Developer,57038.0,San Francisco,Master's,Education
+16,Manager,98577.0,SF,PhD,Healthcare
+21,Manager,65430.0,New York,Bachelor,Retail
+5,VP,12283.0,LA,Bachelor,Education
+3,Manager,88531.0,San Francisco,Bachelor,Consulting
+12,CTO,90930.0,Austin,Master's,Manufacturing
+25,Developer,108705.0,LA,Bachelor,Education
+20,Developer,83473.0,Boston,Master's,Education
+27,Manager,45329.0,New York,Master's,Consulting
+21,jr. dev,,New York,Bachelor,Tech
+4,CTO,129508.0,New York,PhD,nan
+21,CTO,64901.0,San Francisco,phd,Consulting
+23,Junior Developer,137496.0,LA,Bachelor,Retail
+16,nan,121499.0,Boston,PhD,Tech
+25,Junior Developer,80466.0,SF,PhD,Education
+7,Senior Developer,68127.0,Austin,Master's,Education
+13,Junior Developer,,Chicago,PhD,Healthcare
+21,VP,,SF,Master's,Tech
+10,Senior Developer,43630.0,Boston,Master's,nan
+26,Junior Developer,106869.0,Chicago,Bachelor,Retail
+7,Junior Developer,,Chicago,PhD,Healthcare
+14,Junior Developer,124131.0,New York,PhD,Healthcare
+26,CTO,100487.0,Seattle,Bachelor,nan
+5,VP,73525.0,Boston,Master's,Consulting
+3,Manager,128090.0,New York,nan,Education
+23,Manager,131009.0,Boston,Master's,Healthcare
+29,VP,96996.0,Seattle,Master's,Education
+11,Junior Developer,91809.0,Austin,phd,Education
+11,Senior Developer,50301.0,Seattle,PhD,Education
+18,nan,71774.0,nan,PhD,Education
+15,CTO,112823.0,SF,Masters,nan
+12,Senior Developer,73281.0,New York,phd,Consulting
+9,CTO,46294.0,SF,Master's,Retail
+10,Senior Developer,194876.0,nan,Master's,Manufacturing
+26,CTO,46097.0,Seattle,Master's,Healthcare
+12,Junior Developer,157702.0,San Francisco,nan,Manufacturing
+17,Junior Developer,80777.0,Seattle,PhD,Retail
+29,Junior Developer,87463.0,Seattle,Bachelor,Retail
+6,Sr. Dev,69831.0,nan,phd,nan
+7,Developer,113485.0,Austin,Master's,Consulting
+14,Junior Developer,46806.0,Boston,Bachelor,Education
+13,Junior Developer,34790.0,nan,Master's,Education
+8,Developer,138305.0,Boston,Master's,nan
+10,Junior Developer,65880.0,nan,phd,Retail
+9,Senior Developer,112382.0,Boston,Bachelor,Consulting
+18,nan,,SF,Masters,Consulting
+27,Senior Developer,111252.0,nan,PhD,Education
+26,VP,,nan,Bachelor,Tech
+2,nan,74186.0,nan,nan,Healthcare
+5,Manager,31996.0,Boston,Master's,nan
+29,Junior Developer,140663.0,Austin,Bachelor,Tech
+5,Senior Developer,117787.0,LA,Master's,nan
+6,Developer,75792.0,Boston,phd,Education
+19,jr. dev,83461.0,New York,Master's,Retail
+8,Developer,56680.0,Chicago,Bachelor,nan
+16,Junior Developer,132607.0,Austin,Bachelor,nan
+13,Developer,73958.0,SF,Bachelor,Education
+1,Sr. Dev,47438.0,Seattle,Masters,Manufacturing
+22,VP,96409.0,Boston,Master's,Education
+20,Sr. Dev,64199.0,nan,Bachelor,Healthcare
+17,Developer,59099.0,Boston,Bachelor,Consulting
+7,VP,77097.0,San Francisco,Master's,Retail
+25,CTO,92590.0,Austin,phd,Education
+13,Senior Developer,48566.0,LA,Master's,Manufacturing
+4,Junior Developer,131554.0,SF,nan,nan
+4,VP,110314.0,San Francisco,Master's,Healthcare
+6,Senior Developer,79039.0,San Francisco,Bachelor,nan
+28,jr. dev,62899.0,Boston,phd,Healthcare
+19,nan,87323.0,SF,Master's,Education
+29,Developer,116983.0,Boston,PhD,nan
+12,Junior Developer,112337.0,Seattle,nan,Education
+22,Senior Developer,121755.0,SF,Bachelor,Manufacturing
+7,Junior Developer,75588.0,Seattle,Bachelor,Healthcare
+27,VP,2252.0,Austin,PhD,Retail
+10,Developer,127434.0,Austin,Bachelor,Healthcare
+26,Sr. Dev,84984.0,Seattle,Bachelor,Manufacturing
+19,Manager,109984.0,Austin,Bachelor,Consulting
+7,Sr. Dev,140076.0,SF,Bachelor,Consulting
+3,jr. dev,163032.0,nan,Masters,Education
+13,Senior Developer,70505.0,New York,Bachelor,Education
+13,jr. dev,94018.0,Austin,Master's,Manufacturing
+18,Manager,131005.0,Austin,PhD,Education
+28,Senior Developer,64671.0,Boston,Master's,Tech
+26,VP,,Seattle,Bachelor,Healthcare
+20,Senior Developer,72358.0,Chicago,Masters,Tech
+28,VP,89157.0,LA,Bachelor,Healthcare
+8,VP,83396.0,San Francisco,Masters,Consulting
+29,CTO,72186.0,Austin,phd,Education
+9,Manager,61027.0,San Francisco,Master's,Consulting
+7,CTO,114358.0,SF,Master's,Retail
+1,CTO,130134.0,Chicago,Master's,Tech
+3,CTO,134481.0,LA,Master's,Tech
+13,Manager,75567.0,Seattle,phd,Consulting
+28,Junior Developer,115611.0,New York,phd,Retail
+25,CTO,97089.0,LA,Master's,Healthcare
+28,Junior Developer,72879.0,LA,PhD,Education
+17,VP,112026.0,New York,phd,Retail
+25,Developer,71501.0,nan,nan,Education
+24,CTO,78714.0,Seattle,Master's,Tech
+1,CTO,48698.0,Boston,Master's,Education
+6,nan,76073.0,San Francisco,Bachelor,Tech
+21,Developer,97615.0,Austin,nan,Retail
+6,Sr. Dev,,LA,Bachelor,Tech
+26,Developer,79395.0,SF,PhD,nan
+12,Junior Developer,58854.0,New York,Bachelor,Education
+13,Junior Developer,134921.0,San Francisco,Bachelor,Tech
+13,CTO,74863.0,Chicago,Master's,Consulting
+29,Senior Developer,37548.0,New York,nan,Retail
+15,Manager,93992.0,Chicago,Bachelor,nan
+21,Manager,80256.0,Seattle,PhD,Healthcare
+16,CTO,159011.0,LA,Bachelor,Education
+22,Developer,104260.0,SF,Bachelor,nan
+21,Developer,85609.0,Austin,Master's,Manufacturing
+11,CTO,62265.0,Chicago,Master's,nan
+28,Developer,99905.0,San Francisco,Bachelor,Retail
+5,Manager,133701.0,nan,Master's,nan
+4,jr. dev,99354.0,Seattle,Bachelor,nan
+3,Junior Developer,64577.0,nan,Master's,Consulting
+19,nan,106164.0,Seattle,nan,Tech
+20,VP,88541.0,Boston,phd,Education
+25,Manager,103458.0,San Francisco,Master's,Education
+18,Junior Developer,79355.0,nan,PhD,Healthcare
+15,Manager,78651.0,SF,phd,Education
+9,Junior Developer,77466.0,LA,Bachelor,nan
+17,Junior Developer,118267.0,New York,Masters,Manufacturing
+14,VP,78953.0,Austin,phd,Retail
+15,CTO,76208.0,LA,Bachelor,Education
+1,VP,61738.0,LA,Bachelor,Retail
+21,Sr. Dev,103620.0,Seattle,nan,Consulting
+22,CTO,99351.0,SF,Master's,Retail
+22,CTO,76536.0,Seattle,Bachelor,Healthcare
+3,Junior Developer,68718.0,Chicago,Bachelor,Manufacturing
+16,Developer,146285.0,Austin,Master's,Education
+23,Manager,33586.0,Chicago,PhD,nan
+25,nan,104795.0,New York,PhD,nan
+11,Developer,128742.0,San Francisco,nan,Manufacturing
+12,CTO,-11604.0,New York,Bachelor,Education
+10,Junior Developer,113824.0,New York,Master's,Retail
+16,jr. dev,83392.0,Boston,Master's,Education
+8,Developer,97681.0,Austin,Master's,Education
+6,Junior Developer,,Seattle,Bachelor,Education
+12,Senior Developer,122261.0,SF,nan,Consulting
+24,Developer,100893.0,Chicago,phd,Manufacturing
+28,Junior Developer,93951.0,New York,Master's,Education
+21,Sr. Dev,63034.0,Chicago,PhD,Education
+8,Manager,,Chicago,Bachelor,Tech
+26,Junior Developer,90297.0,San Francisco,Master's,Education
+28,Developer,,Austin,PhD,Tech
+4,Manager,147827.0,Austin,Master's,Healthcare
+26,CTO,36649.0,nan,nan,nan
+8,Junior Developer,70351.0,LA,PhD,Tech
+26,Junior Developer,58891.0,Austin,Master's,Manufacturing
+28,VP,88553.0,Chicago,Masters,Education
+18,CTO,95614.0,Seattle,Bachelor,Tech
+28,CTO,96897.0,Chicago,Master's,Education
+28,Developer,121623.0,Seattle,Master's,Manufacturing
+5,VP,134807.0,nan,Master's,Tech
+9,Junior Developer,119024.0,Seattle,Masters,Tech
+4,Manager,73171.0,Austin,Master's,Education
+27,Sr. Dev,66539.0,San Francisco,Masters,Consulting
+22,Developer,90082.0,Seattle,PhD,Consulting
+17,CTO,102783.0,Chicago,Master's,Tech
+9,Senior Developer,84504.0,SF,Masters,Consulting
+1,Senior Developer,49635.0,Austin,Bachelor,Retail
+21,Developer,110461.0,SF,Bachelor,Education
+20,jr. dev,78230.0,Chicago,Master's,Retail
+13,VP,77324.0,LA,Bachelor,Manufacturing
+28,Developer,88361.0,nan,Bachelor,Retail
+16,Developer,82803.0,Austin,PhD,Manufacturing
+29,Junior Developer,79004.0,SF,Master's,Tech
+13,Manager,51596.0,Chicago,Master's,Manufacturing
+14,Junior Developer,86632.0,LA,nan,Manufacturing
+3,Senior Developer,111088.0,Chicago,PhD,Education
+29,jr. dev,97939.0,LA,phd,Retail
+6,Manager,118443.0,Seattle,Bachelor,Education
+18,CTO,68143.0,Boston,PhD,Tech
+19,Junior Developer,51658.0,Chicago,phd,Education
+5,Senior Developer,82624.0,Seattle,PhD,Retail
+15,Senior Developer,71572.0,Austin,PhD,Education
+25,Senior Developer,74689.0,Seattle,Master's,Education
+2,VP,96352.0,New York,Bachelor,Manufacturing
+10,Senior Developer,74907.0,New York,Master's,nan
+24,VP,52497.0,Chicago,Master's,Retail
+18,Junior Developer,73230.0,SF,phd,Education
+27,Junior Developer,100201.0,SF,Bachelor,nan
+13,Senior Developer,110144.0,Austin,nan,Consulting
+5,CTO,109842.0,Seattle,nan,Education
+23,VP,102734.0,SF,Bachelor,Consulting
+24,Manager,84957.0,LA,Master's,Retail
+1,Manager,,LA,phd,Tech
+22,Developer,88729.0,Austin,nan,Education
+1,Junior Developer,93392.0,nan,Master's,Retail
+18,Senior Developer,61820.0,Seattle,Master's,Education
+15,Developer,91316.0,Chicago,Master's,Education
+17,VP,101359.0,San Francisco,PhD,Retail
+11,Senior Developer,100233.0,San Francisco,Bachelor,Education
+21,Sr. Dev,51374.0,San Francisco,PhD,Healthcare
+26,Developer,92887.0,SF,Bachelor,Education
+25,Senior Developer,46683.0,nan,Bachelor,Education
+22,VP,,nan,Master's,Tech
+27,CTO,68959.0,Seattle,Master's,Manufacturing
+27,Manager,141169.0,Seattle,Master's,Manufacturing
+17,Manager,93577.0,nan,Master's,Education
+13,Senior Developer,114034.0,Austin,Master's,Consulting
+1,VP,153326.0,Seattle,Bachelor,Tech
+2,Manager,65477.0,Austin,Master's,Education
+9,Developer,103070.0,New York,nan,nan
+3,VP,54422.0,LA,Master's,Manufacturing
+1,Junior Developer,,Seattle,Master's,Education
+21,VP,142971.0,nan,PhD,Tech
+16,Senior Developer,71163.0,LA,nan,Healthcare
+23,CTO,63421.0,LA,Bachelor,Consulting
+6,VP,,Boston,PhD,Retail
+28,Senior Developer,151374.0,nan,PhD,Education
+17,Manager,113131.0,nan,PhD,Tech
+5,Junior Developer,,Seattle,Bachelor,Education
+5,Junior Developer,133651.0,Chicago,PhD,nan
+6,Manager,,New York,Bachelor,Education
+3,Manager,154096.0,Austin,PhD,Consulting
+21,nan,,Chicago,PhD,Manufacturing
+23,Manager,142906.0,New York,Bachelor,Manufacturing
+5,Senior Developer,40566.0,Chicago,Masters,Manufacturing
+21,CTO,95083.0,Austin,Bachelor,nan
+5,Junior Developer,85983.0,SF,Masters,Retail
+10,nan,59790.0,nan,Master's,Tech
+10,VP,51119.0,Chicago,Bachelor,Consulting
+19,Developer,105212.0,Seattle,Bachelor,Consulting
+17,Junior Developer,107931.0,San Francisco,nan,Manufacturing
+21,Manager,128999.0,Seattle,Bachelor,Manufacturing
+14,Manager,,Austin,Bachelor,Education
+9,Developer,85751.0,Seattle,Master's,nan
+14,Junior Developer,48526.0,LA,PhD,Healthcare
+1,Senior Developer,136223.0,nan,Master's,Healthcare
+19,nan,92086.0,LA,Bachelor,Education
+13,Manager,111677.0,Seattle,Bachelor,Education
+13,Manager,112737.0,New York,Bachelor,Consulting
+4,Junior Developer,,Boston,Bachelor,Consulting
+1,nan,65058.0,New York,Master's,Retail
+17,Junior Developer,110927.0,nan,PhD,Retail
+8,Developer,89249.0,nan,Bachelor,Healthcare
+2,Developer,153170.0,LA,Master's,nan
+28,Senior Developer,64969.0,Boston,Master's,Education
+8,VP,125142.0,Seattle,nan,Healthcare
+7,Junior Developer,100510.0,Austin,nan,nan
+26,Senior Developer,98935.0,New York,Masters,Healthcare
+26,Developer,91620.0,New York,Bachelor,Education
+2,jr. dev,130399.0,San Francisco,Bachelor,Tech
+22,VP,97915.0,Boston,Master's,Retail
+22,CTO,44267.0,Austin,Bachelor,Education
+3,Junior Developer,126585.0,New York,Master's,Education
+27,Junior Developer,121086.0,Austin,Masters,Education
+18,Junior Developer,107614.0,Seattle,phd,Education
+12,Senior Developer,,Austin,Masters,Manufacturing
+1,Senior Developer,60806.0,New York,Master's,Manufacturing
+22,Manager,33676.0,LA,PhD,Manufacturing
+12,Senior Developer,103809.0,Boston,Master's,Consulting
+5,Senior Developer,49513.0,nan,Bachelor,Retail
+27,CTO,38437.0,Chicago,PhD,Retail
+25,Developer,128249.0,SF,Bachelor,Tech
+17,Senior Developer,113045.0,SF,Master's,Tech
+16,Sr. Dev,80004.0,Chicago,Master's,Consulting
+15,jr. dev,85978.0,Austin,PhD,Healthcare
+23,Junior Developer,17779.0,Boston,Masters,nan
+15,Developer,,Austin,Master's,Tech
+5,CTO,69218.0,nan,Masters,Education
+21,CTO,99908.0,Boston,Bachelor,Manufacturing
+14,Manager,15343.0,Chicago,Master's,Education
+2,CTO,119327.0,Austin,PhD,Manufacturing
+11,Manager,67414.0,San Francisco,PhD,Education
+19,CTO,48718.0,New York,nan,Healthcare
+7,VP,79811.0,LA,Bachelor,nan
+6,VP,72108.0,LA,PhD,Education
+28,CTO,122228.0,nan,PhD,Education
+2,Developer,77388.0,Austin,phd,Education
+6,Junior Developer,130878.0,Seattle,Bachelor,nan
+18,Senior Developer,,Boston,Masters,Education
+2,Developer,116831.0,Austin,PhD,Education
+18,Senior Developer,89935.0,Boston,Bachelor,Retail
+15,Junior Developer,128161.0,San Francisco,Master's,nan
+27,Junior Developer,55391.0,LA,Master's,Consulting
+19,Senior Developer,93408.0,New York,PhD,nan
+2,nan,78106.0,LA,phd,nan
+20,CTO,131898.0,Seattle,PhD,Education
+25,Sr. Dev,134971.0,Seattle,PhD,Retail
+6,CTO,90012.0,SF,Master's,nan
+1,Manager,51254.0,SF,Bachelor,Tech
+24,Senior Developer,102812.0,Seattle,Bachelor,Tech
+15,VP,40061.0,Chicago,Master's,Education
+28,Junior Developer,138784.0,San Francisco,Master's,Education
+23,jr. dev,75804.0,Boston,Bachelor,Education
+10,Developer,89082.0,San Francisco,Master's,nan
+19,Senior Developer,69571.0,nan,Master's,Healthcare
+17,nan,62946.0,New York,Bachelor,Retail
+5,Developer,112118.0,San Francisco,Master's,Manufacturing
+29,VP,85241.0,Seattle,Bachelor,Manufacturing
+4,Junior Developer,91274.0,LA,phd,Healthcare
+10,Manager,,nan,phd,Education
+24,CTO,115681.0,Seattle,PhD,Manufacturing
+17,Senior Developer,118733.0,San Francisco,Bachelor,nan
+10,Junior Developer,83732.0,LA,Masters,Manufacturing
+17,Developer,128037.0,New York,Masters,Tech
+28,Junior Developer,86876.0,San Francisco,Masters,Tech
+20,CTO,113392.0,Boston,Bachelor,Consulting
+24,Sr. Dev,41312.0,Austin,PhD,Retail
+5,jr. dev,100602.0,LA,Masters,Education
+2,Senior Developer,81855.0,San Francisco,PhD,Education
+6,jr. dev,94665.0,Seattle,PhD,Retail
+21,Junior Developer,93320.0,Boston,Master's,Education
+2,Junior Developer,93770.0,Chicago,Master's,Manufacturing
+13,VP,108471.0,LA,Bachelor,Consulting
+11,Manager,73044.0,Boston,PhD,Retail
+11,Manager,107072.0,Seattle,Bachelor,Manufacturing
+16,CTO,126975.0,San Francisco,Master's,Education
+11,Junior Developer,47695.0,New York,Bachelor,Retail
+19,Senior Developer,66583.0,Austin,Master's,Education
+15,Manager,67843.0,Boston,Bachelor,Retail
+25,Developer,57238.0,Austin,PhD,Manufacturing
+23,VP,75759.0,New York,Masters,nan
+23,Senior Developer,120993.0,Boston,Bachelor,nan
+16,Manager,133427.0,SF,Bachelor,Retail
+11,Junior Developer,93185.0,Seattle,Bachelor,Education
+22,Junior Developer,80272.0,Boston,phd,Consulting
+16,Developer,114087.0,Seattle,Master's,Consulting
+8,Senior Developer,19080.0,nan,Master's,nan
+4,Junior Developer,,LA,Bachelor,Manufacturing
+8,VP,20351.0,nan,PhD,Education
+4,VP,58029.0,San Francisco,phd,Manufacturing
+24,VP,66989.0,LA,Masters,Consulting
+25,Senior Developer,134330.0,LA,PhD,Healthcare
+3,Senior Developer,,Chicago,Bachelor,Healthcare
+3,Senior Developer,,LA,Bachelor,Retail
+27,Junior Developer,108586.0,New York,Bachelor,Education
+29,VP,102321.0,nan,Bachelor,nan
+18,Developer,133852.0,Seattle,Bachelor,Tech
+29,Developer,94831.0,San Francisco,Bachelor,Tech
+26,Developer,,LA,Master's,Tech
+19,Manager,34844.0,San Francisco,phd,Retail
+19,VP,60351.0,San Francisco,PhD,Healthcare
+21,Manager,36518.0,LA,Masters,Consulting
+5,CTO,107178.0,LA,PhD,Retail
+18,Manager,100460.0,Chicago,Bachelor,Tech
+28,Junior Developer,99406.0,Chicago,PhD,Tech
+10,Manager,63556.0,Chicago,Bachelor,nan
+29,nan,60811.0,Seattle,PhD,Manufacturing
+22,Senior Developer,96283.0,Seattle,Master's,Tech
+21,Junior Developer,69918.0,Chicago,nan,Education
+6,Manager,59387.0,Chicago,Bachelor,Tech
+1,Developer,74748.0,SF,Bachelor,Manufacturing
+5,CTO,,SF,phd,Tech
+9,VP,63998.0,LA,Bachelor,Education
+12,Junior Developer,53226.0,Austin,PhD,Consulting
+26,VP,103460.0,Austin,PhD,Retail
+14,Senior Developer,136681.0,Chicago,Masters,Education
+2,Developer,88829.0,San Francisco,nan,Manufacturing
+17,VP,96673.0,Chicago,nan,Retail
+14,Junior Developer,106091.0,SF,Bachelor,Retail
+26,Junior Developer,100996.0,LA,Masters,Manufacturing
+13,Junior Developer,64592.0,Chicago,PhD,nan
+27,Manager,141595.0,nan,PhD,Healthcare
+9,Senior Developer,67280.0,San Francisco,Bachelor,Tech
+26,VP,109442.0,nan,PhD,Education
+25,Manager,105905.0,LA,nan,Manufacturing
+15,Senior Developer,31246.0,LA,phd,Consulting
+25,Junior Developer,79234.0,Seattle,Master's,Education
+22,Junior Developer,91698.0,Boston,Bachelor,Manufacturing
+15,jr. dev,93994.0,nan,Master's,Tech
+24,Senior Developer,99042.0,Seattle,Masters,Tech
+11,VP,112729.0,SF,PhD,Retail
+16,Developer,89774.0,New York,Master's,Retail
+29,VP,100638.0,San Francisco,Bachelor,Manufacturing
+17,jr. dev,88651.0,New York,Master's,Education
+26,Manager,59479.0,SF,Master's,nan
+4,nan,90972.0,SF,phd,Manufacturing
+1,Junior Developer,112472.0,New York,PhD,Education
+8,Junior Developer,123263.0,nan,Master's,nan
+17,VP,106119.0,Boston,Master's,Education
+3,Sr. Dev,130030.0,nan,Bachelor,Tech
+29,Developer,102565.0,New York,nan,Tech
+20,Junior Developer,,nan,Master's,Tech
+15,Senior Developer,118121.0,Austin,Master's,Consulting
+15,Sr. Dev,83299.0,nan,Master's,Tech
+24,Senior Developer,111780.0,LA,PhD,Education
+22,Developer,61780.0,Seattle,PhD,Retail
+14,Developer,100494.0,San Francisco,PhD,Retail
+26,Manager,107310.0,nan,Bachelor,Education
+28,Manager,121532.0,Boston,Master's,Retail
+23,Manager,114622.0,Boston,Bachelor,Healthcare
+14,Senior Developer,121923.0,nan,PhD,nan
+24,jr. dev,87018.0,Chicago,Bachelor,Education
+2,Manager,79638.0,SF,PhD,Retail
+13,jr. dev,,nan,phd,Healthcare
+26,Junior Developer,97988.0,SF,phd,nan
+14,nan,35737.0,Austin,Master's,Consulting
+27,Manager,129952.0,New York,Master's,Retail
+24,Junior Developer,91316.0,Austin,Bachelor,Healthcare
+19,Junior Developer,77549.0,nan,PhD,Manufacturing
+7,Developer,14108.0,Boston,Masters,Education
+3,VP,88895.0,Chicago,Bachelor,Manufacturing
+15,Developer,84045.0,SF,Master's,Healthcare
+23,Junior Developer,,Seattle,Masters,Education
+14,Junior Developer,69808.0,SF,phd,Tech
+11,CTO,89200.0,LA,Bachelor,Tech
+15,Manager,72352.0,San Francisco,PhD,Tech
+28,Manager,107156.0,nan,Bachelor,nan
+13,nan,67536.0,Austin,Bachelor,Education
+18,nan,94638.0,Seattle,phd,nan
+26,Sr. Dev,125401.0,Boston,Masters,Retail
+6,Developer,,Boston,Masters,Tech
+3,Manager,100679.0,Boston,Bachelor,Manufacturing
+19,Manager,98779.0,LA,Masters,Education
+15,CTO,90239.0,Boston,Master's,Education
+25,Developer,87989.0,Boston,Master's,Tech
+23,Junior Developer,72858.0,nan,Master's,Manufacturing
+5,Manager,,LA,Bachelor,Consulting
+28,Junior Developer,81501.0,Chicago,Masters,Education
+10,CTO,136382.0,Chicago,PhD,Tech
+7,jr. dev,114334.0,LA,Bachelor,Education
+25,Developer,46416.0,San Francisco,Bachelor,Healthcare
+17,Senior Developer,48085.0,Seattle,Bachelor,nan
+7,nan,86086.0,SF,Bachelor,Retail
+22,VP,78140.0,nan,PhD,Education
+26,Junior Developer,84504.0,New York,Masters,Education
+12,Senior Developer,109534.0,Chicago,Bachelor,Education
+25,Senior Developer,99472.0,LA,Bachelor,Education
+17,Junior Developer,99168.0,Seattle,PhD,Consulting
+13,nan,133385.0,LA,Masters,Healthcare
+20,Manager,48333.0,SF,Master's,Retail
+25,jr. dev,93118.0,Seattle,Master's,Education
+4,Senior Developer,72628.0,Chicago,PhD,nan
+10,Junior Developer,133063.0,Boston,Bachelor,Retail
+3,Manager,23719.0,LA,Bachelor,Manufacturing
+9,Junior Developer,25035.0,New York,PhD,Education
+13,Manager,,Chicago,PhD,Education
+18,Sr. Dev,123788.0,Austin,PhD,Education
+15,CTO,113197.0,New York,PhD,Education
+4,VP,65970.0,San Francisco,PhD,nan
+15,Junior Developer,135192.0,Chicago,Bachelor,Manufacturing
+22,Junior Developer,53055.0,Boston,Master's,Consulting
+2,Junior Developer,129224.0,Chicago,Bachelor,Education
+15,CTO,57023.0,SF,Bachelor,Education
+8,Junior Developer,79445.0,Seattle,PhD,Retail
+8,Manager,109178.0,LA,phd,Healthcare
+17,CTO,46013.0,Seattle,nan,Tech
+12,Manager,,Seattle,PhD,Retail
+19,Junior Developer,79261.0,Chicago,Bachelor,Consulting
+10,Senior Developer,94118.0,SF,Bachelor,Healthcare
+9,Sr. Dev,124866.0,LA,Masters,Retail
+5,VP,66206.0,LA,PhD,Retail
+6,Manager,121824.0,Seattle,PhD,Manufacturing
+20,Junior Developer,139216.0,San Francisco,Masters,Tech
+26,nan,70332.0,SF,PhD,nan
+2,VP,131081.0,San Francisco,Masters,Consulting
+27,Senior Developer,37182.0,nan,Bachelor,Education
+24,jr. dev,101688.0,nan,PhD,Manufacturing
+27,Senior Developer,53142.0,New York,phd,Healthcare
+13,CTO,118277.0,Seattle,Bachelor,Tech
+6,VP,115813.0,LA,PhD,Education
+5,Senior Developer,152321.0,Chicago,Master's,Manufacturing
+25,nan,132638.0,LA,nan,Tech
+1,Developer,85026.0,LA,Bachelor,nan
+21,CTO,57547.0,Boston,PhD,Consulting
+22,Junior Developer,106970.0,LA,Bachelor,Education
+21,Junior Developer,88178.0,New York,PhD,nan
+6,Senior Developer,136534.0,San Francisco,Bachelor,Education
+6,Developer,25008.0,nan,Bachelor,Healthcare
+23,Senior Developer,155641.0,LA,Master's,Education
+16,CTO,105959.0,LA,phd,Manufacturing
+4,Developer,,Boston,Bachelor,Healthcare
+11,Junior Developer,112019.0,SF,Bachelor,Education
+29,Senior Developer,100538.0,San Francisco,phd,Manufacturing
+13,Manager,49277.0,Austin,Masters,Retail
+14,CTO,,SF,Bachelor,Healthcare
+18,Developer,68422.0,Austin,PhD,Consulting
+17,Senior Developer,58411.0,New York,PhD,Education
+17,Developer,98937.0,San Francisco,Bachelor,Manufacturing
+14,nan,,Austin,Master's,Consulting
+17,Senior Developer,118733.0,San Francisco,Bachelor,nan
+23,VP,102734.0,SF,Bachelor,Consulting
+8,VP,125142.0,Seattle,nan,Healthcare
+12,Manager,134070.0,Seattle,PhD,Retail
+22,Junior Developer,53055.0,Boston,Master's,Consulting
+23,Junior Developer,72858.0,nan,Master's,Manufacturing
+21,Junior Developer,,Boston,Master's,Education
+6,nan,76073.0,San Francisco,Bachelor,Tech
+11,Junior Developer,77274.0,LA,PhD,nan
+15,CTO,112823.0,SF,Masters,nan
+1,Junior Developer,78692.0,Boston,nan,Education
+20,Senior Developer,72358.0,Chicago,Masters,Tech
+4,Manager,147827.0,Austin,Master's,Healthcare
+15,Developer,,Chicago,Master's,Education
+19,CTO,121147.0,SF,PhD,nan
+25,jr. dev,122291.0,LA,Master's,Tech
+9,VP,63998.0,LA,Bachelor,Education
+21,CTO,57547.0,Boston,PhD,Consulting
+28,Junior Developer,99406.0,Chicago,PhD,Tech
+18,CTO,83843.0,New York,phd,Consulting
+9,Sr. Dev,98395.0,SF,Masters,Tech
+5,VP,66206.0,LA,PhD,Retail
+24,Manager,84957.0,LA,Master's,Retail
+17,Manager,115777.0,Seattle,Bachelor,Healthcare
+26,Junior Developer,100996.0,LA,Masters,Manufacturing
+17,jr. dev,102981.0,Seattle,PhD,Manufacturing
+18,Developer,133852.0,Seattle,Bachelor,Tech
+3,Manager,57548.0,Boston,phd,Education
+8,CTO,,San Francisco,Bachelor,Healthcare
+2,Developer,8576.0,nan,PhD,Healthcare
+2,Junior Developer,,Chicago,Bachelor,Education
+6,Manager,40348.0,New York,Bachelor,Education
+5,Junior Developer,,Austin,Bachelor,nan
+5,CTO,107178.0,LA,PhD,Retail
+24,Senior Developer,82134.0,Seattle,Master's,Tech
+13,Senior Developer,110144.0,Austin,nan,Consulting
+12,Senior Developer,56145.0,Austin,Masters,Manufacturing
+10,Junior Developer,-10548.0,Austin,Masters,Manufacturing
+1,Senior Developer,136223.0,nan,Master's,Healthcare
+11,Developer,111680.0,Boston,Master's,nan
+2,Senior Developer,81855.0,San Francisco,PhD,Education
+21,Developer,47887.0,LA,phd,Consulting
+26,Junior Developer,26100.0,SF,Masters,Tech
