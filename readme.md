@@ -27,10 +27,3 @@ Features to use: Review Text (after text cleaning & vectorization), Rating, Revi
 Problem Type: Regression
 Goal: Predict temperature/humidity levels based on past sensor readings.
 Features to use: Timestamp (converted into features like Hour, Day, Month), Humidity, Pressure, etc.
-
-# employee_salary_data.csv
-## Employee Salary Data (Missing values, duplicates, inconsistent data, categorical encoding, text cleaning)
-
-🎯 Target: Salary
-Problem Type: Regression
-Goal: Predict the annual salary of an employee based on their experience, designation, education level, industry, and location.
