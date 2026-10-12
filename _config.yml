@@ -1,0 +1,24 @@
+# GitHub Pages documentation site; does not configure application deployment.
+url: "https://gcfernando.github.io"
+baseurl: "/datasets"
+title: "Machine Learning Practice Datasets"
+description: "Nine CSV datasets for machine learning practice, data cleaning, classification, regression, sentiment analysis and time-series forecasting."
+lang: "en"
+plugins:
+  - jekyll-sitemap
+exclude:
+  - packages
+  - bin
+  - obj
+  - node_modules
+  - vendor
+  - tests
+  - .claude
+  - .agents
+  - .codex
+defaults:
+  - scope:
+      path: "readme.md"
+    values:
+      title: "🌟 Dataset Playground — Machine Learning Datasets for Practice (CSV)"
+      description: "Nine CSV datasets for machine learning practice, data cleaning, classification, regression, sentiment analysis and time-series forecasting."
