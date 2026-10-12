@@ -250,3 +250,9 @@ They appear to be synthetic: for example, customer IDs are random UUIDs and the 
 - [Salary prediction with scikit-learn](https://github.com/gcfernando/python_codes/blob/main/ML/Salary/readme.md) — uses the same `years_experience` / `salary` data
 - [Python machine-learning examples](https://github.com/gcfernando/python_codes/tree/main/ML) — ARIMA forecasting and linear regression
 - [Complete SQL guide](https://github.com/gcfernando/document/blob/main/sql_complete_guide.md) — load these CSV files into a database for SQL practice
+
+---
+
+## Documentation links
+
+[Read all Machine Learning Practice Datasets guides online](https://gcfernando.github.io/datasets/documentation/) · [Project overview](https://gcfernando.github.io/datasets/) · [All developer projects](https://gcfernando.github.io/gcfernando/projects/)

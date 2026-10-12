@@ -22,3 +22,9 @@ defaults:
     values:
       title: "🌟 Dataset Playground — Machine Learning Datasets for Practice (CSV)"
       description: "Nine CSV datasets for machine learning practice, data cleaning, classification, regression, sentiment analysis and time-series forecasting."
+
+# Public documentation navigation and presentation.
+repository: gcfernando/datasets
+theme: jekyll-theme-primer
+projects_hub: https://gcfernando.github.io/gcfernando/projects/
+project_category: "Data & learning"
