@@ -197,6 +197,12 @@ This repository is ideal for:
 
 ## 🐍 Quick Start with pandas
 
+Use Python with pandas installed in your active environment:
+
+```bash
+python -m pip install pandas
+```
+
 Load a dataset directly from GitHub without cloning the repository:
 
 ```python
@@ -215,6 +221,17 @@ Or clone the repository and read the files locally:
 
 ```bash
 git clone https://github.com/gcfernando/datasets.git
+cd datasets
+```
+
+From that folder, load the local CSV files:
+
+```python
+import pandas as pd
+
+titanic = pd.read_csv("Titanic.csv")
+college = pd.read_csv("College.csv", index_col=0)
+print(titanic.shape)  # (891, 12)
 ```
 
 ---
