@@ -1,6 +1,6 @@
 # 🌟 Dataset Playground — Machine Learning Datasets for Practice (CSV)
 
-Welcome to the repository of ready-to-use **CSV datasets for machine learning practice**, data cleaning, feature engineering, and exploratory data analysis (EDA). This collection includes tabular, classification, regression, text (sentiment), and time-series datasets designed for both learning and experimentation — from classics such as **Iris** and **Titanic** to messy customer, sales, review, and sensor data for realistic cleaning exercises.
+Explore nine **CSV datasets for machine learning practice**, data cleaning, feature engineering, and exploratory data analysis (EDA). The collection includes classification, regression, text sentiment and time-series exercises — from **Iris** and **Titanic** to messy customer, sales, review and sensor tables. Choose a file in the catalog below, then use the pandas quick start to load it locally or from GitHub. Dataset provenance and license information is incomplete; see the [source and reuse notes](#source-and-reuse-notes).
 
 ## ✨ What’s inside?
 
@@ -11,7 +11,7 @@ This repo contains 9 structured datasets across common ML scenarios:
 - Sentiment analysis
 - Time-series forecasting
 - Classic ML benchmark datasets
-- Real-world business and academic examples
+- Business-themed practice tables and established teaching datasets
 
 ---
 
@@ -37,15 +37,15 @@ Row counts exclude the header row.
 
 | File | Theme | Problem Type | Target/Goal | Best For |
 |---|---|---:|---|---|
-| `customer_data.csv` | Customer analytics | Regression | Predict `Purchase_Amount` | EDA, data cleaning, feature engineering |
-| `sales_data.csv` | Transactions | Classification | Detect `Is_Fraudulent` | Fraud detection, anomaly handling |
-| `reviews_data.csv` | Product feedback | Multiclass classification | Predict review sentiment | NLP, text preprocessing |
-| `sensor_data.csv` | IoT sensor readings | Regression | Predict `Temperature` / `Humidity` | Time-series modeling, missing data handling |
-| `College.csv` | Higher education | Classification | Predict college outcomes / categories (for example `Private`) | Feature selection, logistic regression |
-| `Iris.csv` | Botanical dataset | Classification | Identify flower species | Beginner ML, clustering, classification |
-| `Purchase.csv` | Customer purchase behavior | Classification | Predict purchase decision | Marketing analytics |
-| `Salary.csv` | Employment dataset | Regression | Predict salary from experience | Linear regression, simple modeling |
-| `Titanic.csv` | Passenger data | Classification | Predict survival | Data wrangling, binary classification |
+| [customer_data.csv](customer_data.csv) | Customer analytics | Regression | Predict `Purchase_Amount` | EDA, data cleaning, feature engineering |
+| [sales_data.csv](sales_data.csv) | Transactions | Classification | Detect `Is_Fraudulent` | Fraud detection, anomaly handling |
+| [reviews_data.csv](reviews_data.csv) | Product feedback | Multiclass classification | Predict review sentiment | NLP, text preprocessing |
+| [sensor_data.csv](sensor_data.csv) | IoT sensor readings | Regression | Predict `Temperature` / `Humidity` | Time-series modeling, missing data handling |
+| [College.csv](College.csv) | Higher education | Classification | Predict college outcomes / categories (for example `Private`) | Feature selection, logistic regression |
+| [Iris.csv](Iris.csv) | Botanical dataset | Classification | Identify flower species | Beginner ML, clustering, classification |
+| [Purchase.csv](Purchase.csv) | Customer purchase behavior | Classification | Predict purchase decision | Marketing analytics |
+| [Salary.csv](Salary.csv) | Employment dataset | Regression | Predict salary from experience | Linear regression, simple modeling |
+| [Titanic.csv](Titanic.csv) | Passenger data | Classification | Predict survival | Data wrangling, binary classification |
 
 ---
 
@@ -258,6 +258,10 @@ They appear to be synthetic: for example, customer IDs are random UUIDs and the 
 
 **Which dataset should a beginner start with?**
 `Iris.csv` for classification and `Salary.csv` for linear regression are small and clean. Move on to `Titanic.csv` for missing-value handling, then `customer_data.csv` and `sales_data.csv` for messier, more realistic cleaning.
+
+<a id="source-and-reuse-notes"></a>
+
+### Source and reuse notes
 
 **Where did the classic datasets come from?**
 `Iris.csv`, `Titanic.csv`, and `College.csv` are versions of widely used public teaching datasets. No source or license information is recorded in this repository, so check the original sources before redistributing them.

@@ -20,7 +20,7 @@ defaults:
   - scope:
       path: "readme.md"
     values:
-      title: "🌟 Dataset Playground — Machine Learning Datasets for Practice (CSV)"
+      title: "CSV Datasets for Machine Learning Practice"
       description: "Nine CSV datasets for machine learning practice, data cleaning, classification, regression, sentiment analysis and time-series forecasting."
 
 # Public documentation navigation and presentation.
